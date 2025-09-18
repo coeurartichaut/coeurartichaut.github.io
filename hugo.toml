@@ -9,7 +9,7 @@ defaultContentLanguage = "fr"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "CoeurArtichaut - Art the"
+title = "Coeur Artichaut - Art therapie"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -34,10 +34,9 @@ enableEmoji = true
     # see CSS classes: .title-and-description-guard, .blog-title, .blog-description
     # see _index.md header_headline and header_subheadline
     title_guard = false
-    title = "CoeurArtichaut - Art the"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Art"
+    description = "Hypersensibilite Confiance en soi Gestion des emotions"
 
     # Show a menu of languages available
     language_menu = false
