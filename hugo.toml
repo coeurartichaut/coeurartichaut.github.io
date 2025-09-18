@@ -91,4 +91,4 @@ enableEmoji = true
   [languages.fr]
     weight = 10
     languageName = "Francais"
-    contentDir = "content/fr
+    contentDir = "content/fr"
