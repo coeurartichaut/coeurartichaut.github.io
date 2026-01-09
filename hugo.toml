@@ -9,7 +9,7 @@ defaultContentLanguage = "fr"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Coeur Artichaut - Art therapie"
+title = "Coeur Artichaut - cabinet d'Art thérapie"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -36,7 +36,7 @@ enableEmoji = true
     title_guard = false
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Hypersensibilite Confiance en soi Gestion des emotions"
+    description = "Hypersensibilité, Confiance en soi, Gestion des émotions, Gestion du stress, Retrouver son bonheur, Accompagnement"
 
     # Show a menu of languages available
     language_menu = false
@@ -47,7 +47,7 @@ enableEmoji = true
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© CoeurArtichaut 2025"
+    copyright = "© CoeurArtichaut 2026"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
