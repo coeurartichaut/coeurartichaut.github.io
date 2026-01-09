@@ -36,7 +36,7 @@ enableEmoji = true
     title_guard = false
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Hypersensibilité, Confiance en soi, Gestion des émotions, Gestion du stress, Retrouver son bonheur, Accompagnement"
+    description = "Quand les mots ne suffisent pas à soulager nos maux, Hypersensibilité, Confiance en soi, Gestion des émotions, Gestion du stress, Retrouver son bonheur, Accompagnement"
 
     # Show a menu of languages available
     language_menu = false
@@ -65,13 +65,13 @@ enableEmoji = true
 
     [params.footer]
     # Show contact icons for email/phone (if specified) in the footer of the page
-    showContactIcons = false
+    showContactIcons = true
 
     # Show links indicated with footer_menu and footer_menu_title in the footer of the page
     showFooterLinks = false
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "Hypersensibilité, Confiance en soi, Gestion des émotions, Gestion du stress, Retrouver son bonheur, Accompagnement"
 
   #  [[params.contacts]]
   #      label = "phone"
