@@ -1,6 +1,6 @@
 ---
 # Striking header background image, Ideal images are homogenous around the centre and contrasting to the text. Non-ideal images can use `title_guard`
-header_image: "images/cover_image.jpg"
+header_image: "images/paysage sapin.jpg"
 #
 # When set true, uses video from custom_header_video.html partial, instead of header_image
 header_use_video: false
@@ -10,11 +10,11 @@ header_logo: "images/artichaut.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Coeur artichaut"
-header_subheadline: "<b>Art thérapie</b>"
+header_subheadline: "<b>Cabinet d'art thérapie</b>"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
 # Weight (i. e. position in menu): none = no menu entry, first = add as first entry, last = ad as last entry
-nav_to_top_title: "Return To Top"
+nav_to_top_title: "Haut de la page"
 nav_to_top_weight: last
 ---
