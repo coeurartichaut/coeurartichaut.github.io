@@ -11,9 +11,9 @@ header_menu: true
 ---
 
 <div style="text-align:center;">
-  <img src="./assets/images/peinture.jpg" alt="Dessin" style="max-width:50%; height:auto; margin-bottom:1rem;">
-  <img src="./assets/images/peinture pots.jpg" alt="Pot de peinture" style="max-width:50%; height:auto; margin-bottom:1rem;">
-  <img src="./assets/images/musique portrait.jpg" alt="Instruments de musique" style="max-width:50%; height:auto;">
+  <img src="../assets/images/peinture.jpg" alt="Dessin" style="max-width:50%; height:auto; margin-bottom:1rem;">
+  <img src="../assets/images/peinture pots.jpg" alt="Pot de peinture" style="max-width:50%; height:auto; margin-bottom:1rem;">
+  <img src="../assets/images/musique portrait.jpg" alt="Instruments de musique" style="max-width:50%; height:auto;">
 </div>
 
 
