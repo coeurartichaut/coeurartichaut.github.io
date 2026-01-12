@@ -1,5 +1,4 @@
 ---
-title: ""
 header_menu_title: "Prestations"
 navigation_menu_title: "Mes prestations"
 weight: 2
