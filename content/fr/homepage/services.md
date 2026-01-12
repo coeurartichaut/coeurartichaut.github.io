@@ -3,13 +3,12 @@ title: "Prestations"
 header_menu_title: "Prestations"
 navigation_menu_title: "Mes prestations"
 weight: 2
-header_menu: true
+header_menu: false
 ---
 
 ## Qu'est-ce que l'art-thérapie ?
 
 <div style="display:flex; align-items:center; gap:2rem; flex-wrap:nowrap;">
-
   <img src="/assets/images/peinture.jpg"
        alt="Dessin"
        style="width:20% !important; height:auto; border-radius:8px; display:inline-block;">
@@ -21,7 +20,6 @@ header_menu: true
 </div>
 
 <div style="display:flex; align-items:center; gap:2rem; flex-wrap:nowrap;">
-
   <div style="width:80%;">
     <p>
       Selon les besoins de chacun, l’art‑thérapie peut passer par le dessin, la peinture, le collage, mais aussi par l’écriture intuitive, la musique, la voix, le modelage, le mouvement corporel ou l’exploration sensorielle. Chaque média ouvre une porte différente, et parfois c’est précisément cette diversité qui permet d’accéder à ce qui était resté bloqué.
@@ -31,21 +29,17 @@ header_menu: true
   <img src="/assets/images/peinture pots.jpg"
        alt="Pot de peinture"
        style="width:20% !important; height:auto; border-radius:8px; display:inline-block;">
-
 </div>
 
 <div style="display:flex; align-items:center; gap:2rem; flex-wrap:nowrap;">
-
   <img src="/assets/images/musique portrait.jpg"
        alt="Instruments de musique"
        style="width:20% !important; height:auto; border-radius:8px; display:inline-block;">
-
   <div style="width:80%;">
     <p>
       Dans une séance, vous n’êtes jamais jugé. Vous êtes accueilli tel que vous êtes, avec votre histoire, vos doutes, vos tensions, vos élans. Mon rôle est de vous guider, de vous offrir un cadre sécurisant et une présence attentive pour que vous puissiez explorer en profondeur, à votre rythme. Ensemble, nous transformons ce qui pèse en quelque chose de plus léger, de plus compréhensible, parfois même de plus beau.
     </p>
   </div>
-
 </div>
 
 Si vous sentez que quelque chose en vous a besoin d’être entendu autrement que par la parole, si vous avez envie d’un espace où vous reconnecter à votre créativité, à votre intuition, à votre calme intérieur, alors une séance pourrait réellement vous faire du bien. Je peux vous accompagner dans ce processus avec douceur, structure et sensibilité. <br>
