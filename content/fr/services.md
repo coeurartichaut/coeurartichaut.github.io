@@ -7,8 +7,8 @@ title: "Prestations"
 <div style="display:flex; align-items:center; gap:2rem; flex-wrap:nowrap;">
   <img src="/assets/images/peinture.jpg"
        alt="Dessin"
-       style="width:10% !important; height:auto; border-radius:8px; display:inline-block;">
-  <div style="width:90%;">
+       style="width:40% !important; height:auto; border-radius:8px; display:inline-block;">
+  <div style="width:60%;">
     <p>
       L’art‑thérapie, c’est l’espace rare où l’on peut enfin déposer ce que les mots n’arrivent pas à dire. Ce n’est pas « faire de l’art », ni chercher à produire quelque chose de beau. C’est un moment où l’on se reconnecte à soi, où les couleurs, les sons, les mouvements ou même les mots deviennent des chemins pour comprendre ce qui se passe à l’intérieur.
     </p>
@@ -30,8 +30,8 @@ title: "Prestations"
 <div style="display:flex; align-items:center; gap:2rem; flex-wrap:nowrap;">
   <img src="/assets/images/musique portrait.jpg"
        alt="Instruments de musique"
-       style="width:50% !important; height:auto; border-radius:8px; display:inline-block;">
-  <div style="width:50%;">
+       style="width:40% !important; height:auto; border-radius:8px; display:inline-block;">
+  <div style="width:60%;">
     <p>
       Dans une séance, vous n’êtes jamais jugé. Vous êtes accueilli tel que vous êtes, avec votre histoire, vos doutes, vos tensions, vos élans. Mon rôle est de vous guider, de vous offrir un cadre sécurisant et une présence attentive pour que vous puissiez explorer en profondeur, à votre rythme. Ensemble, nous transformons ce qui pèse en quelque chose de plus léger, de plus compréhensible, parfois même de plus beau.
     </p>
