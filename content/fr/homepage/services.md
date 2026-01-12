@@ -11,9 +11,9 @@ header_menu: true
 ---
 
 <div style="text-align:center;">
-  <img src="./images/peinture.jpg" alt="Image 1" style="max-width:50%; height:auto; margin-bottom:1rem;">
-  <img src="./images/peinture pots.jpg" alt="Image 2" style="max-width:50%; height:auto; margin-bottom:1rem;">
-  <img src="./images/musique portrait.jpg" alt="Image 3" style="max-width:50%; height:auto;">
+  <img src="assets/images/peinture.jpg" alt="Image 1" style="max-width:50%; height:auto; margin-bottom:1rem;">
+  <img src="assets/images/peinture pots.jpg" alt="Image 2" style="max-width:50%; height:auto; margin-bottom:1rem;">
+  <img src="assets/images/musique portrait.jpg" alt="Image 3" style="max-width:50%; height:auto;">
 </div>
 
 
