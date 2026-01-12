@@ -9,9 +9,8 @@ header_menu: true
 
 ## Qu'est-ce que l'art-thérapie ?
 ---
-![musique portrait](https://github.com/user-attachments/assets/40d7bdd3-767d-4f7f-82aa-6fc45c1180f1)
-![20250926_153112](https://github.com/user-attachments/assets/24ccd79c-25f3-47bb-9471-fde4ec7dc2e0)
-![peinture](https://github.com/user-attachments/assets/3ac0bf87-b844-41e9-9444-a52e76ba10c7)
+{{ $image := resources.Get "images/peinture.jpg" }}
+{{ $image := $image.Resize "300x" }}
 
 L’art‑thérapie, c’est l’espace rare où l’on peut enfin déposer ce que les mots n’arrivent pas à dire. Ce n’est pas « faire de l’art », ni chercher à produire quelque chose de beau. C’est un moment où l’on se reconnecte à soi, où les couleurs, les sons, les mouvements ou même les mots deviennent des chemins pour comprendre ce qui se passe à l’intérieur.
 
