@@ -1,16 +1,18 @@
 ---
-title: "Contact & Legal"
-header_menu_title: "Contact & Legal"
-navigation_menu_title: "Contact & Legal"
+title: ""
+header_menu_title: "Contact & Légal"
+navigation_menu_title: "Contact & Légal"
 weight: 2
-header_menu: false
+header_menu: true
 ---
 
 ## Contact
-:envelope: : contact@coeuratichaut.fr
+
+:envelope: : contact@coeuratichaut.fr <br>
 :phone: : 07xxxxxx29
 
-## Legal
+## Légal
+
 Code de déontologie 
 
 
