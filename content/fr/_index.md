@@ -10,7 +10,7 @@ header_logo: "images/artichaut.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Coeur artichaut"
-header_subheadline: "<b>Art thérapeute</b> & <b>Psychopraticienne</b>"
+header_subheadline: "<b>Art thérapie</b>"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
