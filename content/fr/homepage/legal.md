@@ -1,7 +1,8 @@
 ---
+title: "Mentions légales "
 header_menu_title: "Mentions légales"
 navigation_menu_title: "Mentions légales"
-weight: 2
+weight: 5
 header_menu: true
 ---
 
