@@ -1,5 +1,5 @@
 ---
-title:"à propos"
+title:"A propos"
 header_menu_title: "A propos"
 navigation_menu_title: "Qui suis-je ?"
 weight: 1
