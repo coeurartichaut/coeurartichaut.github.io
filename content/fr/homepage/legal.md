@@ -20,8 +20,7 @@ Elle ne se substitue en aucun cas à un suivi médical, psychologique ou psychia
 Pour toute problématique de santé, il est recommandé de consulter un professionnel de santé qualifié.
 
 ### **3. Contact**
-Pour toute question concernant ces mentions légales, vous pouvez écrire à :  
-**contact@coeurartichaut.fr**
+Pour toute question concernant ces mentions légales, vous pouvez écrire à : **contact@coeurartichaut.fr**
 
 
 
