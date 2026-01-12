@@ -1,9 +1,9 @@
 ---
-title: "Prestations"
+title: ""
 header_menu_title: "Prestations"
 navigation_menu_title: "Mes prestations"
 weight: 2
-header_menu: false
+header_menu: true
 ---
 
 ## Qu'est-ce que l'art-thérapie ?
