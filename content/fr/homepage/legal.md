@@ -1,5 +1,4 @@
 ---
-title: ""
 header_menu_title: "Contact & Légal"
 navigation_menu_title: "Contact & Légal"
 weight: 2
