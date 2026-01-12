@@ -6,6 +6,8 @@ weight: 2
 header_menu: true
 ---
 
+
+
 ### 🌿 Coeur Artichaut
 
 Le cabinet Coeur Artichaut est né d’un désir profond : créer un espace où mes aptitudes naturelles à accompagner les personnes rencontrent pleinement mes passions. J’ai à cœur de vous offrir un lieu où vous pouvez vous déposer, vous recentrer et retrouver un mieux‑être durable. Je suis convaincue que le bonheur s’enracine dans une santé mentale équilibrée, nourrie et respectée.
