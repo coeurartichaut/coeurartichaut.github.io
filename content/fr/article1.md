@@ -6,9 +6,9 @@ L’art‑thérapie, c’est l’espace rare où l’on peut enfin déposer ce q
     
 
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-  <img src="/assets/images/peinture.jpg" alt="Dessin" style="width:30%; max-width:200px; height:auto;">
-  <img src="/assets/images/peinture pots.jpg" alt="Pot de peinture" style="width:30%; max-width:200px; height:auto;">
-  <img src="/assets/images/musique portrait.jpg" alt="Instruments de musique" style="width:30%; max-width:200px; height:auto;">
+  <img src="/assets/images/peinture.jpg" alt="Dessin" style="width:30%;">
+  <img src="/assets/images/peinture pots.jpg" alt="Pot de peinture" style="width:30%;">
+  <img src="/assets/images/musique portrait.jpg" alt="Instruments de musique" style="width:30%;">
 </div>
 
      
