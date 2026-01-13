@@ -21,7 +21,7 @@ enableEmoji = true
 [params]
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
-    favicon = "images/favicon.png"
+    favicon = "images/favicon.ico"
 
     # These "images" are used for the structured data templates. This will show up, when
     # services like Twitter or Slack want to generate a preview of a link to your site.
@@ -34,7 +34,7 @@ enableEmoji = true
     # see CSS classes: .title-and-description-guard, .blog-title, .blog-description
     # see _index.md header_headline and header_subheadline
     title_guard = false
-    
+
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "Quand les mots ne suffisent pas à soulager nos maux, Hypersensibilité, Confiance en soi, Gestion des émotions, Gestion du stress, Retrouver son bonheur, Accompagnement"
 
