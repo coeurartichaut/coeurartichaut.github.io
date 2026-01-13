@@ -1,17 +1,6 @@
 h2 {
   display: none;
 }
-.text-image-right {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.5rem;
-}
-
-.text-image-right img {
-  max-width: 300px;
-  height: auto;
-  margin-left: auto;
-}
 
 .post-holder-dark {
   background-color: #7a9135 !important;

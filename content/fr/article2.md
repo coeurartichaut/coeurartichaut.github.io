@@ -2,7 +2,6 @@
 title: "Pourquoi consulter ?"
 ---
 
-
 On consulte en art‑thérapie lorsqu’on ressent le besoin d’un espace différent, un espace où l’on peut avancer sans devoir tout expliquer, sans devoir “savoir” ce qu’on ressent. C’est une démarche qui attire celles et ceux qui sentent qu’un mouvement intérieur est nécessaire, même s’ils ne savent pas encore lequel.<br>
 
 #### Des raisons que beaucoup de personnes reconnaissent  

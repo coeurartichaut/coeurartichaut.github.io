@@ -6,6 +6,7 @@ weight: 4
 header_menu: true
 ---
 
-:enveloppe: mailto:contact@coeurartichaut.fr
-:phone: 078xxxxx29
-&#x1F4CD; Saint-Maximin-la-Ste-Baume
+
+{{<contact_list>}}
+
+&#x1F4CD; Saint-Maximin-la-Ste-Baume <br>
