@@ -1,6 +1,7 @@
 ---
 title: "Mentions légales – Cabinet d’Art‑Thérapie Cœur Artichaut"
 ---
+## Mentions légales – Cabinet d’Art‑Thérapie Cœur Artichaut
 
 ### **1. Éditeur du site**
 **Nom du cabinet :** Cœur Artichaut  

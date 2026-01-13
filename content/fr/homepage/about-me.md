@@ -2,11 +2,9 @@
 title: "A propos"
 header_menu_title: "A propos"
 navigation_menu_title: "Qui suis-je ?"
-weight: 2
+weight: 3
 header_menu: true
 ---
-
-
 
 ### 🌿 Coeur Artichaut
 

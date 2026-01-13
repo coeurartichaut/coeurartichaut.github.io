@@ -9,7 +9,7 @@ defaultContentLanguage = "fr"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Coeur Artichaut - cabinet d'Art thérapie"
+title = "Coeur Artichaut - cabinet d'Art thérapie - 83470"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -33,7 +33,7 @@ enableEmoji = true
     # Ideal images are homogenous around the centre and contrasting to the text.
     # see CSS classes: .title-and-description-guard, .blog-title, .blog-description
     # see _index.md header_headline and header_subheadline
-    title_guard = false
+    title_guard = true
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "Quand les mots ne suffisent pas à soulager nos maux, Hypersensibilité, Confiance en soi, Gestion des émotions, Gestion du stress, Retrouver son bonheur, Accompagnement"
@@ -84,6 +84,9 @@ enableEmoji = true
         value = "contact@coeurartichaut.fr"
         url = "mailto:contact@coeurartichaut.fr"
         icon = "fa fa-envelope"
+
+[params]
+  customCSS = ["/assets/css/style.css"]
 
 # Define additional languages
 [languages]
