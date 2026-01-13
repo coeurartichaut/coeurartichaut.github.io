@@ -8,8 +8,6 @@ detailed_page_path: /legal/
 detailed_page_homepage_content: true
 ---
 
-### Mentions légales – Cabinet d’Art‑Thérapie Cœur Artichaut
-
 Envie d’en savoir plus ? Consultez [la page des mentions légales](legal)
 
 
