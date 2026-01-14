@@ -6,7 +6,7 @@ weight: 2
 header_menu: true
 ---
 
-Consultation art-thérapie (matériel inclus) au cabinet 60 euros
+Consultation art-thérapie au cabinet 60 euros (matériel inclus) 
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "A propos"
 header_menu_title: "A propos"
-navigation_menu_title: "Qui suis-je ?"
+navigation_menu_title: "A propos"
 weight: 3
 header_menu: true
 ---

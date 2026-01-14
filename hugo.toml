@@ -73,11 +73,11 @@ enableEmoji = true
     [params.meta]
         keywords = "Hypersensibilité, Confiance en soi, Gestion des émotions, Gestion du stress, Retrouver son bonheur, Accompagnement"
 
-    [[params.contacts]]
-        label = "phone"
-        value = "07XXXXXX29"
-        url = "tel:07XXXXXX29"
-        icon = "fa fa-phone"
+    #[[params.contacts]]
+    #    label = "phone"
+    #   value = ""
+    #  url = "tel:"
+    # icon = "fa fa-phone"
 
     [[params.contacts]]
         label = "email"

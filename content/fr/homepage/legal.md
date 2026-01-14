@@ -8,7 +8,12 @@ detailed_page_path: /legal/
 detailed_page_homepage_content: true
 ---
 
-Envie d’en savoir plus ? Consultez [la page des mentions légales](legal)
+### **Cookies**
+Le site peut utiliser des cookies techniques nécessaires à son fonctionnement.  
+Vous pouvez configurer votre navigateur pour refuser ou supprimer les cookies.  
+Aucun cookie publicitaire n’est installé sans votre consentement.
+
+Envie d’en savoir plus ? [Consultez la page des mentions légales](legal)
 
 
 

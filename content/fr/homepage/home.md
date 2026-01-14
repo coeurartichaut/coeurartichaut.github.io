@@ -12,9 +12,9 @@ Peindre, modeler, créer avec la nature ou explorer la matière… En art‑thé
 Les séances se déroulent dans un cadre confidentiel et sécurisant, où la confiance permet d’avancer à son rythme. C’est un véritable espace pour soi, pour déposer ce qui pèse, se recentrer et renouer avec ses ressources profondes.
 Un accompagnement concret pour traverser les moments sensibles et retrouver de la stabilité intérieure.
 
-![Dessin](/images/media.png)
+![Médias](/images/media.png)
 
-Envie d'en savoir plus ? Lisez l'article [Qu'est-ce que l'art-thérapie ?](article1)
+Envie d'en savoir plus ?[Lisez l'article Qu'est-ce que l'art-thérapie ?](article1)
 
 ### Reconnaître les signes qui invitent à se faire accompagner
 
@@ -24,5 +24,4 @@ Un accompagnement pour retrouver de la clarté, réinstaller du calme, et s’of
 
 Si tu veux, je peux t’en proposer une variante encore plus douce ou plus concise.
 
-
-Envie d'en savoir plus ? Lisez l'article [Pourquoi consulter ?](article2)
+Envie d'en savoir plus ? [Lisez l'article Pourquoi consulter ?](article2)
