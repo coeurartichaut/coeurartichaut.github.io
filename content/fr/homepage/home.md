@@ -6,18 +6,23 @@ weight: 1
 header_menu: true
 ---
 
-### Qu'est-ce que l'art-thérapie ?
-    
-L’art‑thérapie, c’est l’espace rare où l’on peut enfin déposer ce que les mots n’arrivent pas à dire. Ce n’est pas « faire de l’art », ni chercher à produire quelque chose de beau. C’est un moment où l’on se reconnecte à soi, où les couleurs, les sons, les mouvements ou même les mots deviennent des chemins pour comprendre ce qui se passe à l’intérieur.
+### L’art‑thérapie, un espace sûr pour avancer autrement    
 
-![Dessin](/images/peinture.jpg)
+Peindre, modeler, créer avec la nature ou explorer la matière… En art‑thérapie, chaque média devient un soutien pour apaiser les tensions, clarifier ses émotions et retrouver un mieux‑être durable.
+Les séances se déroulent dans un cadre confidentiel et sécurisant, où la confiance permet d’avancer à son rythme. C’est un véritable espace pour soi, pour déposer ce qui pèse, se recentrer et renouer avec ses ressources profondes.
+Un accompagnement concret pour traverser les moments sensibles et retrouver de la stabilité intérieure.
+
+![Dessin](/images/media.png)
 
 Envie d'en savoir plus ? Lisez l'article [Qu'est-ce que l'art-thérapie ?](article1)
 
-Si vous sentez que quelque chose en vous a besoin d’être entendu autrement que par la parole, si vous avez envie d’un espace où vous reconnecter à votre créativité, à votre intuition, à votre calme intérieur, alors une séance pourrait réellement vous faire du bien. Je peux vous accompagner dans ce processus avec douceur, structure et sensibilité. <br>
+### Reconnaître les signes qui invitent à se faire accompagner
 
-### Pourquoi consulter ?
+Quand le quotidien devient lourd — sommeil perturbé, tensions qui s’installent, irritabilité, difficulté à se concentrer, sensation d’être submergé ou vidé — il peut être utile de trouver un espace pour souffler.
+L’art‑thérapie accompagne celles et ceux qui se sentent dépassés, qui n’arrivent plus à poser des limites, qui accumulent sans réussir à relâcher, ou qui traversent une période où tout semble demander trop d’énergie.
+Un accompagnement pour retrouver de la clarté, réinstaller du calme, et s’offrir enfin un espace où l’on se sent accueilli, soutenu… et en confiance pour commencer à aller mieux.
 
-On consulte en art‑thérapie lorsqu’on ressent le besoin d’un espace différent, un espace où l’on peut avancer sans devoir tout expliquer, sans devoir “savoir” ce qu’on ressent. C’est une démarche qui attire celles et ceux qui sentent qu’un mouvement intérieur est nécessaire, même s’ils ne savent pas encore lequel.<br>
+Si tu veux, je peux t’en proposer une variante encore plus douce ou plus concise.
+
 
 Envie d'en savoir plus ? Lisez l'article [Pourquoi consulter ?](article2)
