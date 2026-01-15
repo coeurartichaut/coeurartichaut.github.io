@@ -20,7 +20,7 @@ enableEmoji = true
 # Theme-specific variables `.Site.Params.myParamName`
 [params]
    
-    backLinkText = "Retour"
+    backToTopText = "Retour"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.ico"
