@@ -5,7 +5,7 @@ navigation_menu_title: "A propos"
 weight: 3
 header_menu: true
 ---
-
+  
 ### 🌿 Cœur Artichaut
 
 Cœur Artichaut est né d’un **désir profond** : créer un espace où mes aptitudes naturelles à accompagner les personnes rencontrent pleinement mes passions. J’ai à cœur d’offrir un **lieu où chacun peut se déposer**, se recentrer et retrouver un **mieux‑être durable**. Je suis convaincue que le bonheur s’enracine dans une **santé mentale équilibrée**, nourrie et respectée.
@@ -21,6 +21,7 @@ Rien ne me prédestinait, en apparence, à l’art‑thérapie. J’ai d’abord
 Puis un **appel intérieur** s’est fait sentir : celui de me rapprocher de l’humain, de la créativité, de l’écoute profonde. Cette **reconversion en art‑thérapie** a été une révélation, un chemin qui m’a permis de réunir **sensibilité**, **intuition** et **accompagnement**. Naturellement, j’ai poursuivi ce mouvement en me formant à la **psychothérapie** afin d’enrichir ma pratique et d’offrir un soutien encore plus complet.
 
 ---
+
 ### 🌿 Pourquoi choisir mon accompagnement ?
 
 Ici, vous trouvez un espace où l’on peut déposer ce que l’on traverse, être entendu·e et avancer en confiance.
@@ -28,6 +29,8 @@ Je crois profondément que **tout ce qui se vit a sa place**, et j’accueille c
 Mon **optimisme et ma présence chaleureuse** soutiennent les moments sensibles.
 J’aime ajuster, chercher, me remettre en question lorsque c’est nécessaire, pour que l’accompagnement reste **juste et vivant**.
 La création devient un moyen d’expression **accessible à tous**, sans attente de performance — un chemin pour déposer, comprendre et transformer ce qui se présente.
+
+---
 
 #### 🎓 Certifications  
 **2025**  

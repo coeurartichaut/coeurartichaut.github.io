@@ -5,7 +5,7 @@ navigation_menu_title: "Accueil"
 weight: 1
 header_menu: true
 ---
-
+  
 ### L’art‑thérapie, un espace sûr pour avancer autrement    
 
 Peindre, modeler, créer avec la nature ou explorer la matière… En art‑thérapie, chaque média devient un soutien pour apaiser les tensions, clarifier ses émotions et retrouver un mieux‑être durable.
