@@ -14,7 +14,7 @@ Un accompagnement concret pour traverser les moments sensibles et retrouver de l
 
 ![Médias](/images/media.png)
 
-Envie d'en savoir plus ?[Lisez l'article Qu'est-ce que l'art-thérapie ?](article1)
+Envie d'en savoir plus ? [Lisez l'article Qu'est-ce que l'art-thérapie ?](article1)
 
 ### Reconnaître les signes qui invitent à se faire accompagner
 
