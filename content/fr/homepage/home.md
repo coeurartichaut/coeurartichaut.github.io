@@ -5,7 +5,9 @@ navigation_menu_title: "Accueil"
 weight: 1
 header_menu: true
 ---
----  
+
+---    
+
 ### L’art‑thérapie, un espace sûr pour avancer autrement    
 
 Peindre, modeler, créer avec la nature ou explorer la matière… En art‑thérapie, chaque média devient un soutien pour apaiser les tensions, clarifier ses émotions et retrouver un mieux‑être durable.
@@ -15,7 +17,9 @@ Un accompagnement concret pour traverser les moments sensibles et retrouver de l
 ![Médias](/images/media.png)
 
 Envie d'en savoir plus ? [Lisez l'article Qu'est-ce que l'art-thérapie ?](article1)
----
+
+---  
+
 ### Reconnaître les signes qui invitent à se faire accompagner
 
 Quand le quotidien devient lourd — sommeil perturbé, tensions qui s’installent, irritabilité, difficulté à se concentrer, sensation d’être submergé ou vidé — il peut être utile de trouver un espace pour souffler.
