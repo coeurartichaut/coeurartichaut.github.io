@@ -26,6 +26,4 @@ Quand le quotidien devient lourd — sommeil perturbé, tensions qui s’install
 L’art‑thérapie accompagne celles et ceux qui se sentent dépassés, qui n’arrivent plus à poser des limites, qui accumulent sans réussir à relâcher, ou qui traversent une période où tout semble demander trop d’énergie.
 Un accompagnement pour retrouver de la clarté, réinstaller du calme, et s’offrir enfin un espace où l’on se sent accueilli, soutenu… et en confiance pour commencer à aller mieux.
 
-Si tu veux, je peux t’en proposer une variante encore plus douce ou plus concise.
-
 Envie d'en savoir plus ? [Lisez l'article Pourquoi consulter ?](article2)
