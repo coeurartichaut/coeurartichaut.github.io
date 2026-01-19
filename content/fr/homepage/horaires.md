@@ -6,7 +6,7 @@ navigation_menu_title: "Horaires & modalités"
 weight: 5
 header_menu: true
 ---
-  
+---  
 ### 🌿 Horaires  
 Les séances sont proposées du **lundi au vendredi, de 7h à 21h**, afin que chacun puisse trouver un créneau adapté à son rythme.
 Le **samedi** est possible **sur demande**, selon les disponibilités.
