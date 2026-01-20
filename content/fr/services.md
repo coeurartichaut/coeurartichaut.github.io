@@ -3,7 +3,7 @@ title: "Prestations"
 ---
 
 
-Consultation art-thérapie (matériel inclus) au cabinet 60 euros
+Consultation art-thérapie 1h au cabinet 60 euros (matériel inclus)
 
 #### 🤝🌿 Déroulement d’un accompagnement
 
