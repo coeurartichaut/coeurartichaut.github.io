@@ -1,5 +1,6 @@
 ---
 title: "À propos"
+description: "Découvrez Marine Genteuil, art‑thérapeute et fondatrice de Cœur Artichaut. J’accompagne enfants, ados et adultes grâce à une méthode créative, douce et structurée, centrée sur l’expression et la sécurité émotionnelle."
 ---
 
 ---
