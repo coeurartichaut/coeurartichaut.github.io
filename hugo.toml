@@ -9,7 +9,7 @@ defaultContentLanguage = "fr"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Coeur Artichaut - cabinet d'Art thérapie - 83470 Saint-Maximin-La-Sainte-Baume"
+title = "Art-thérapeute à Saint-Maximin-la-Sainte-Baume | Cœur Artichaut"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -20,9 +20,6 @@ enableEmoji = true
 # Theme-specific variables `.Site.Params.myParamName`
 [params]
    
-
-    backLinkText = "Retour"
-    backToTopText = "Retour"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.ico"
@@ -40,7 +37,7 @@ enableEmoji = true
     title_guard = false
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Quand les mots ne suffisent pas à soulager nos maux, Hypersensibilité, Confiance en soi, Gestion des émotions, Gestion du stress, Retrouver son bonheur, Accompagnement"
+    description = "Art-thérapie en douceur à Saint-Maximin-la-Sainte-Baume. Un espace pour explorer vos émotions, apaiser le stress, renforcer la confiance en vous et retrouver un équilibre intérieur. Séances pour adultes, enfants et familles."
 
     # Show a menu of languages available
     language_menu = false
@@ -51,7 +48,7 @@ enableEmoji = true
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© CoeurArtichaut 2026"
+    copyright = "© CoeurArtichaut 2026 "
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
@@ -74,8 +71,8 @@ enableEmoji = true
     # Show links indicated with footer_menu and footer_menu_title in the footer of the page
     showFooterLinks = false
 
-    [params.meta]
-        keywords = "Hypersensibilité, Confiance en soi, Gestion des émotions, Gestion du stress, Retrouver son bonheur, Accompagnement"
+    #[params.meta]
+    # keywords = "Hypersensibilité, Confiance en soi, Gestion des émotions, Gestion du stress, Retrouver son bonheur, Accompagnement"
 
     #[[params.contacts]]
     #    label = "phone"

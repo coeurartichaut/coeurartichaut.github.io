@@ -9,12 +9,13 @@ header_use_video: false
 header_logo: "images/artichaut.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Coeur artichaut"
-header_subheadline: "<b>Cabinet d'art thérapie - 83470 Saint-Maximin-La-Sainte-Baume</b>"
+header_headline: "Marine Art‑thérapeute à Saint‑Maximin‑la‑Sainte‑Baume"
+header_subheadline: "<b>Cœur Artichaut – Cabinet d’art‑thérapie</b>"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
 # Weight (i. e. position in menu): none = no menu entry, first = add as first entry, last = ad as last entry
 nav_to_top_title: "Haut de la page"
 nav_to_top_weight: last
+
 ---
