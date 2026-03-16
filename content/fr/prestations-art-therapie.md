@@ -1,5 +1,6 @@
 ---
 title: "Prestations d’art‑thérapie à Saint‑Maximin‑la‑Sainte‑Baume"
+description: "Séances d'art-thérapie à Saint-Maximin-la-Sainte-Baume : 60 € en présentiel, 50 € en visio. Accompagnement individuel pour adultes et enfants. Réservez votre séance."
 ---
 
 ---

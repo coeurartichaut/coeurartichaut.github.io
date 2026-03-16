@@ -1,6 +1,6 @@
 ---
 title: "🌸 Qui suis‑je ?"
-description: "Découvrez Marine Genteuil, art‑thérapeute et fondatrice de Cœur Artichaut. J’accompagne enfants, ados et adultes grâce à une méthode créative, douce et structurée, centrée sur l’expression et la sécurité émotionnelle."
+description: "Marine Genteuil, art-thérapeute certifiée à Saint-Maximin. Ancienne ingénieure reconvertie par passion, elle vous accompagne avec douceur et bienveillance."
 header_menu_title: "Qui suis-je ?"
 navigation_menu_title: "Qui suis-je ?"
 weight: 8

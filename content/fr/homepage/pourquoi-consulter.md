@@ -1,5 +1,6 @@
 ---
 title: "🌬️ Pourquoi choisir l’art‑thérapie ?"
+description: "Stress, anxiété, hypersensibilité, blocages intérieurs… L'art-thérapie aide à avancer sans tout expliquer. Accompagnement pour adultes et adolescents à Saint-Maximin."
 header_menu_title: "Pourquoi consulter ?"
 navigation_menu_title: "Pourquoi consulter ?"
 weight: 3

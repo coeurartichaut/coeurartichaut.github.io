@@ -1,5 +1,6 @@
 ---
 title: "🌿 La Méthode Cœur Artichaut™"
+description: "La Méthode Cœur Artichaut™ : une approche d'art-thérapie structurée en 3 phases pour explorer vos émotions, identifier vos ressources et avancer concrètement."
 ---
 
 ---

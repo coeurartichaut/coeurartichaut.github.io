@@ -1,5 +1,6 @@
 ---
 title: "🌱 Un accompagnement créatif et bienveillant pour apaiser votre monde intérieur"
+description: "L'art-thérapie utilise la création pour exprimer émotions et blocages. Aucun talent requis. Découvrez cette approche douce, accessible à tous à Saint-Maximin."
 header_menu_title: "Qu’est‑ce que l’art‑thérapie ?"
 navigation_menu_title: "Qu’est‑ce que l’art‑thérapie ?"
 weight: 2

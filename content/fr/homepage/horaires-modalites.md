@@ -1,5 +1,6 @@
 ---
 title: "🌱 Informations pratiques"
+description: "Disponible du lundi au vendredi de 7h à 21h. Séances en présentiel à Saint-Maximin ou en visio. Paiement par chèque, espèces ou virement bancaire."
 header_menu_title: "Horaires & modalités"
 navigation_menu_title: "Informations pratiques"
 weight: 6

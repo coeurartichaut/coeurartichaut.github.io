@@ -38,7 +38,8 @@ enableEmoji = true
     title_guard = false
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Art-thérapie en douceur à Saint-Maximin-la-Sainte-Baume. Un espace pour explorer vos émotions, apaiser le stress, renforcer la confiance en vous et retrouver un équilibre intérieur. Séances pour adultes, enfants et familles."
+    description = "Marine, art-thérapeute à Saint-Maximin-la-Sainte-Baume. Accompagnement créatif et bienveillant pour adultes, adolescents et familles.       
+  Séances en présentiel ou en visio. Prenez rendez-vous."
 
     # Show a menu of languages available
     language_menu = false

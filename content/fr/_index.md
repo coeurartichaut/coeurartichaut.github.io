@@ -9,7 +9,7 @@ header_use_video: false
 header_logo: "images/artichaut.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Marine - Art‑thérapeute à Saint‑Maximin (Var)"
+header_headline: "Marine - Art‑thérapeute Saint‑Maximin (Var)"
 header_subheadline: "<b>Cœur Artichaut – Cabinet d’art‑thérapie</b>"
 
 # Add a 'Go back to top' item to the navigation menu

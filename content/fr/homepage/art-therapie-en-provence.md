@@ -1,5 +1,6 @@
 ---
 title: "L’art‑thérapie en Provence"
+description: "Marine, art-thérapeute à Saint-Maximin-la-Sainte-Baume. Accompagnement créatif et bienveillant pour adultes, adolescents et familles. Séances en présentiel ou en visio. Prenez rendez-vous"
 header_menu_title: "Accueil"
 navigation_menu_title: "Accueil"
 weight: 1

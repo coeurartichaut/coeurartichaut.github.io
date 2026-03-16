@@ -1,5 +1,6 @@
 ---
 title: "Qu’est‑ce que l’art‑thérapie ?"
+description: "L'art-thérapie utilise la création pour exprimer émotions et blocages. Aucun talent requis. Découvrez cette approche douce, accessible à tous à Saint-Maximin."
 ---
 
 L’art‑thérapie est un espace rare où l’on peut enfin déposer ce que les mots n’arrivent pas toujours à exprimer. Il ne s’agit pas de « faire de l’art » ni de produire quelque chose de beau. L’objectif est de **se reconnecter à soi**, d’explorer son monde intérieur et de laisser les couleurs, les formes, les gestes ou les mots devenir des chemins vers une meilleure compréhension de ce que l’on traverse.

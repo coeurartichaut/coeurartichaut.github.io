@@ -1,5 +1,6 @@
 ---
 title: "📍 Art‑thérapie à Saint‑Maximin‑la‑Sainte‑Baume (83470) et dans les environs "
+description: "Contactez Marine pour une séance d'art-thérapie à Saint-Maximin-la-Sainte-Baume (83470). Par email ou SMS au 07 81 11 30 29. Réponse rapide"
 header_menu_title: "Contact"
 navigation_menu_title: "Contact"
 weight: 7
