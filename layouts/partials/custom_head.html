@@ -27,13 +27,15 @@
 {
   "@context": "https://schema.org",
   "@graph": [
+
     {
       "@type": "LocalBusiness",
-      "@id": "https://www.coeurartichaut.fr/#accueil",
+      "@id": "https://www.coeurartichaut.fr/#cabinet",
       "name": "Cœur Artichaut",
-      "image": "https://www.coeurartichaut.fr/images/og-image.png",
+      "description": "Cabinet d’art-thérapie à Saint-Maximin-la-Sainte-Baume (Var). Séances individuelles et accompagnements créatifs pour adultes, enfants et adolescents, selon la méthode Cœur Artichaut.",
+      "image": "https://www.coeurartichaut.fr/images/og-image.jpg",
       "url": "https://www.coeurartichaut.fr/",
-      "description": "Art thérapeute à Saint-Maximin-la-Sainte-Baume (Var). Séances individuelles et accompagnements créatifs pour adultes, enfants et adolescents, dans un cadre sécurisant et confidentiel.",
+      "telephone": "+33 6 XX XX XX XX",
       "priceRange": "€€",
       "address": {
         "@type": "PostalAddress",
@@ -41,6 +43,7 @@
         "postalCode": "83470",
         "addressCountry": "FR"
       },
+      "openingHours": "Mo-Fr 09:00-18:00",
       "areaServed": [
         "Saint-Maximin-la-Sainte-Baume",
         "Brignoles",
@@ -49,30 +52,105 @@
         "Var"
       ],
       "founder": {
-        "@type": "Person",
-        "name": "Marine Genteuil",
-        "jobTitle": "Art-thérapeute"
+        "@id": "https://www.coeurartichaut.fr/#marine"
+      }
+    },
+
+    {
+      "@type": "Person",
+      "@id": "https://www.coeurartichaut.fr/#marine",
+      "name": "Marine Genteuil",
+      "jobTitle": "Art-thérapeute",
+      "description": "Art-thérapeute et fondatrice de la méthode Cœur Artichaut.",
+      "url": "https://www.coeurartichaut.fr/",
+      "worksFor": {
+        "@id": "https://www.coeurartichaut.fr/#cabinet"
+      }
+    },
+
+    {
+      "@type": "Service",
+      "@id": "https://www.coeurartichaut.fr/#service-adultes",
+      "serviceType": "Séance d’art-thérapie pour adultes",
+      "description": "Séances individuelles d’art-thérapie pour adultes, basées sur la méthode Cœur Artichaut.",
+      "provider": {
+        "@id": "https://www.coeurartichaut.fr/#cabinet"
       },
-      "sameAs": [],
-      "keywords": [
-        "art-thérapie",
-        "art-thérapeute",
-        "séance d’art-thérapie",
-        "accompagnement émotionnel",
-        "Saint-Maximin-la-Sainte-Baume",
-        "Var"
+      "areaServed": "Var"
+    },
+
+    {
+      "@type": "Service",
+      "@id": "https://www.coeurartichaut.fr/#service-enfants",
+      "serviceType": "Séance d’art-thérapie pour enfants et adolescents",
+      "description": "Séances d’art-thérapie adaptées aux enfants et adolescents, dans un cadre sécurisant et ludique.",
+      "provider": {
+        "@id": "https://www.coeurartichaut.fr/#cabinet"
+      },
+      "areaServed": "Var"
+    },
+
+    {
+      "@type": "Service",
+      "@id": "https://www.coeurartichaut.fr/#service-ateliers",
+      "serviceType": "Ateliers d’art-thérapie et interventions",
+      "description": "Ateliers créatifs et interventions en structures : écoles, associations, institutions.",
+      "provider": {
+        "@id": "https://www.coeurartichaut.fr/#cabinet"
+      },
+      "areaServed": "Var"
+    },
+
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.coeurartichaut.fr/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Qu’est-ce que l’art-thérapie ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "L’art-thérapie est une approche thérapeutique qui utilise la création artistique pour faciliter l’expression, la compréhension et la transformation des émotions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Qu’est-ce que la méthode Cœur Artichaut ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La méthode Cœur Artichaut est une approche d’art-thérapie structurée et sensible, développée par Marine Genteuil. Elle combine création, symbolique, narration visuelle et exploration émotionnelle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "À qui s’adressent les séances ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Les séances s’adressent aux adultes, enfants et adolescents souhaitant un accompagnement créatif, émotionnel et bienveillant."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Faut-il savoir dessiner ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aucune compétence artistique n’est nécessaire. L’objectif n’est pas esthétique mais expressif et thérapeutique."
+          }
+        }
       ]
     },
+
     {
       "@type": "WebSite",
       "@id": "https://www.coeurartichaut.fr/#website",
       "url": "https://www.coeurartichaut.fr/",
-      "name": "Cœur Artichaut - Art thérapeute Saint-Maximin-la-Sainte-Baume (Var)",
+      "name": "Cœur Artichaut - Art-thérapie à Saint-Maximin",
       "publisher": {
-        "@id": "https://www.coeurartichaut.fr/#accueil"
+        "@id": "https://www.coeurartichaut.fr/#cabinet"
       },
       "inLanguage": "fr-FR"
     }
+
   ]
 }
 </script>
