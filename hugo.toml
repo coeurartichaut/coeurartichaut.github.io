@@ -38,8 +38,7 @@ enableEmoji = true
     title_guard = false
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Marine, art-thérapeute à Saint-Maximin-la-Sainte-Baume. Accompagnement créatif et bienveillant pour adultes, adolescents et familles.       
-  Séances en présentiel ou en visio. Prenez rendez-vous."
+    description = "Marine, art-thérapeute à Saint-Maximin-la-Sainte-Baume. Accompagnement créatif et bienveillant pour adultes, adolescents et familles. Séances en présentiel ou en visio. Prenez rendez-vous."
 
     # Show a menu of languages available
     language_menu = false
