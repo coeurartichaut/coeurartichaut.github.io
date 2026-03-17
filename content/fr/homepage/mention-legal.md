@@ -3,7 +3,7 @@ title: "🛡️ Mentions légales"
 header_menu_title: "Mentions légales"
 navigation_menu_title: "Mentions légales"
 weight: 9
-header_menu: true
+header_menu: false
 detailed_page_path: /mention-legal/
 detailed_page_homepage_content: true
 ---
