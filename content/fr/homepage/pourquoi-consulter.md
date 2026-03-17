@@ -21,5 +21,5 @@ L’art‑thérapie est particulièrement aidante si vous traversez :
 Aucun talent artistique n’est nécessaire.  
 Seule compte votre présence.
 
-{{<extlink icon="fa fa-blog" text=" Pourquoi consulter ?" href="/pourquoi-consulter/">}}  
+[Pourquoi consulter ?](/pourquoi-consulter/)
 

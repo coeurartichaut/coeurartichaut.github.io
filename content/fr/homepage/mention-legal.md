@@ -1,5 +1,5 @@
 ---
-title: "🛡️ Mentions légales"
+title: "Mentions légales"
 header_menu_title: "Mentions légales"
 navigation_menu_title: "Mentions légales"
 weight: 9
@@ -15,7 +15,7 @@ Vous pouvez configurer votre navigateur pour refuser ou supprimer ces cookies à
 Aucun cookie publicitaire ou de suivi n’est installé sans votre consentement.
 
 Pour consulter l’ensemble des informations légales du site, vous pouvez visiter la page dédiée :  
-[Consulter les mentions légales](/mention-legal/)
+🛡️ [Consulter les mentions légales](/mention-legal/)
 
 
 
