@@ -13,4 +13,4 @@ detailed_page_homepage_content: true
 Grâce à un protocole progressif et des outils d’analyse spécifiques, chaque séance vous permet d’explorer, de mettre en sens et d’agir.
 Une méthode professionnelle, sécurisante et accessible, adaptée aux enfants, adolescents et adultes.  
 
-[En savoir plus sur la méthode Cœur Artichaut™](/methode-coeur-artichaut/)
+{{< icon name="blog">}} [En savoir plus sur la méthode Cœur Artichaut™](/methode-coeur-artichaut/)
