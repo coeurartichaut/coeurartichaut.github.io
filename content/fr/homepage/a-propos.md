@@ -1,6 +1,6 @@
 ---
 title: "🌸 Qui suis‑je ?"
-description: "Marine Genteuil, art-thérapeute certifiée à Saint-Maximin. Ancienne ingénieure reconvertie par passion, elle vous accompagne avec douceur et bienveillance."
+description: "Marine, art-thérapeute certifiée à Saint-Maximin. Ancienne ingénieure reconvertie par passion, elle vous accompagne avec douceur et bienveillance."
 header_menu_title: "Qui suis-je ?"
 navigation_menu_title: "Qui suis-je ?"
 weight: 8
@@ -9,7 +9,7 @@ detailed_page_path: /a-propos/
 detailed_page_homepage_content: true
 ---
 
-Je suis **Marine Genteuil**, art‑thérapeute à Saint‑Maximin‑la‑Sainte‑Baume et fondatrice de la **Méthode Cœur Artichaut**, une approche poétique et créative d’accompagnement émotionnel. 
+Je suis **Marine**, art‑thérapeute à Saint‑Maximin‑la‑Sainte‑Baume et fondatrice de la **Méthode Cœur Artichaut**, une approche poétique et créative d’accompagnement émotionnel. 
 J’accompagne les personnes dans leur exploration intérieure à travers une approche créative, sensible et profondément humaine. 
 Mon intention est d’offrir un espace où vous pouvez vous rencontrer sans vous brusquer.  
 

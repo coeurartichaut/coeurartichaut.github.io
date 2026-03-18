@@ -1,6 +1,6 @@
 ---
 title: "À propos"
-description: "Marine Genteuil, art-thérapeute certifiée à Saint-Maximin. Ancienne ingénieure reconvertie par passion, elle vous accompagne avec douceur et bienveillance."
+description: "Marine, art-thérapeute certifiée à Saint-Maximin. Ancienne ingénieure reconvertie par passion, elle vous accompagne avec douceur et bienveillance."
 ---
 
 ---
@@ -8,7 +8,7 @@ description: "Marine Genteuil, art-thérapeute certifiée à Saint-Maximin. Anci
 
 Cœur Artichaut est né d’un **désir profond** : créer un espace où mes aptitudes naturelles à accompagner les personnes rencontrent pleinement mes passions. J’ai à cœur d’offrir un **lieu où chacun peut se déposer**, se recentrer et retrouver un **mieux‑être durable**. Je suis convaincue que le mieux‑être s’enracine dans une **santé mentale équilibrée**, nourrie et respectée.
 
-Je suis **Marine Genteuil**, art‑thérapeute et psychopraticienne. J’accorde une attention particulière à créer un **climat de sécurité**, où l’on se sent accueilli, entendu et soutenu. Mon accompagnement s’appuie sur une **énergie simple et positive**, qui apaise et met en confiance, dans un cadre où l’expression est **libre et jamais jugée**.
+Je suis **Marine**, art‑thérapeute et psychopraticienne. J’accorde une attention particulière à créer un **climat de sécurité**, où l’on se sent accueilli, entendu et soutenu. Mon accompagnement s’appuie sur une **énergie simple et positive**, qui apaise et met en confiance, dans un cadre où l’expression est **libre et jamais jugée**.
 
 ---
 
