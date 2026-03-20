@@ -12,6 +12,8 @@ Séance individuelle — **1h en présentiel : 60 euros**
 
 Séance individuelle — **1h en ligne : 50 euros**  
 
+{{<extlink text="🏥 Quelles mutuelles remboursent les consultations en Art-thérapie ?" href="https://www.resalib.fr/remboursement/mutuelle/specialite/15-art-therapie">}} 
+
 Chaque séance d’art‑thérapie est un espace d’accueil, de création et de mise en mots.  
 Je vous reçois en présentiel à **Saint‑Maximin‑la‑Sainte‑Baume et dans les environs**, dans un cadre chaleureux et apaisant, ou en visio selon vos besoins.
 
