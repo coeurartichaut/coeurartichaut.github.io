@@ -30,7 +30,7 @@ J’aime ajuster, chercher, me remettre en question lorsque c’est nécessaire,
 
 La création devient un moyen d’expression **accessible à tous**, sans attente de performance — un chemin pour déposer, comprendre et transformer ce qui se présente.
 
-{{<extlink icon="fa fa-calendar-check" text=" Prendre rendez-vous" href="mailto:contact@coeur-artichaut.fr?subject=Demande de rendez-vous d'art-thérapie&body=Bonjour Marine,%0D%0A%0D%0AJe souhaite prendre rendez-vous pour une séance d'art-thérapie.%0D%0A%0D%0AVoici quelques informations :%0D%0A- Nom : %0D%0A- Prénom : %0D%0A- Téléphone : %0D%0A- Motif de la demande : %0D%0A- Créneaux possibles : %0D%0A%0D%0AMerci,%0D%0A">}}
+{{<extlink icon="fa fa-calendar-check" text=" Prendre rendez-vous" href="mailto:contact@coeurartichaut.fr?subject=Demande de rendez-vous d'art-thérapie&body=Bonjour Marine,%0D%0A%0D%0AJe souhaite prendre rendez-vous pour une séance d'art-thérapie.%0D%0A%0D%0AVoici quelques informations :%0D%0A- Nom : %0D%0A- Prénom : %0D%0A- Téléphone : %0D%0A- Motif de la demande : %0D%0A- Créneaux possibles : %0D%0A%0D%0AMerci,%0D%0A">}}
 
 ---
 

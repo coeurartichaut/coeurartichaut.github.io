@@ -16,7 +16,7 @@ Les séances peuvent également se dérouler **en visio**, selon vos besoins.
 ### ✉️ Me contacter par e‑mail
 
 Pour toute question, demande d’information ou prise de rendez‑vous, vous pouvez écrire à :  
-{{<extlink icon="fa fa-enveloppe" text="contact@coeurartichaut.fr" href="mailto:contact@coeur-artichaut.fr?subject=Demande de rendez-vous d'art-thérapie&body=Bonjour Marine,%0D%0A%0D%0AJe souhaite prendre rendez-vous pour une séance d'art-thérapie.%0D%0A%0D%0AVoici quelques informations :%0D%0A- Nom : %0D%0A- Prénom : %0D%0A- Téléphone : %0D%0A- Motif de la demande : %0D%0A- Créneaux possibles : %0D%0A%0D%0AMerci,%0D%0A">}}  
+{{<extlink icon="fa fa-enveloppe" text="contact@coeurartichaut.fr" href="mailto:contact@coeurartichaut.fr?subject=Demande de rendez-vous d'art-thérapie&body=Bonjour Marine,%0D%0A%0D%0AJe souhaite prendre rendez-vous pour une séance d'art-thérapie.%0D%0A%0D%0AVoici quelques informations :%0D%0A- Nom : %0D%0A- Prénom : %0D%0A- Téléphone : %0D%0A- Motif de la demande : %0D%0A- Créneaux possibles : %0D%0A%0D%0AMerci,%0D%0A">}}  
 
 Je vous répondrai avec attention et bienveillance, dans les meilleurs délais.
 

@@ -5,7 +5,7 @@ header_menu_title: "La Méthode Cœur Artichaut™"
 navigation_menu_title: "La Méthode Cœur Artichaut™"
 weight: 4
 header_menu: true
-detailed_page_path: /methode-coeur-artichaut/
+detailed_page_path: /methode-coeurartichaut/
 detailed_page_homepage_content: true
 ---
 
@@ -13,4 +13,4 @@ detailed_page_homepage_content: true
 Grâce à un protocole progressif et des outils d’analyse spécifiques, chaque séance vous permet d’explorer, de mettre en sens et d’agir.
 Une méthode professionnelle, sécurisante et accessible, adaptée aux enfants, adolescents et adultes.  
 
-{{< icon name="blog">}} [En savoir plus sur la méthode Cœur Artichaut™](/methode-coeur-artichaut/)
+{{< icon name="blog">}} [En savoir plus sur la méthode Cœur Artichaut™](/methode-coeurartichaut/)

@@ -14,6 +14,6 @@ J’accompagne les personnes dans leur exploration intérieure à travers une ap
 Mon intention est d’offrir un espace où vous pouvez vous rencontrer sans vous brusquer.  
 
 {{< icon name="user">}} [En savoir plus](/a-propos/)  
-{{<extlink icon="fa fa-calendar-check" text=" Prendre rendez-vous" href="mailto:contact@coeur-artichaut.fr?subject=Demande de rendez-vous d'art-thérapie&body=Bonjour Marine,%0D%0A%0D%0AJe souhaite prendre rendez-vous pour une séance d'art-thérapie.%0D%0A%0D%0AVoici quelques informations :%0D%0A- Nom : %0D%0A- Prénom : %0D%0A- Téléphone : %0D%0A- Motif de la demande : %0D%0A- Créneaux possibles : %0D%0A%0D%0AMerci,%0D%0A">}}
+{{<extlink icon="fa fa-calendar-check" text=" Prendre rendez-vous" href="mailto:contact@coeurartichaut.fr?subject=Demande de rendez-vous d'art-thérapie&body=Bonjour Marine,%0D%0A%0D%0AJe souhaite prendre rendez-vous pour une séance d'art-thérapie.%0D%0A%0D%0AVoici quelques informations :%0D%0A- Nom : %0D%0A- Prénom : %0D%0A- Téléphone : %0D%0A- Motif de la demande : %0D%0A- Créneaux possibles : %0D%0A%0D%0AMerci,%0D%0A">}}
 
 ---
