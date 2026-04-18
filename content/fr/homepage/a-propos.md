@@ -13,7 +13,7 @@ Je suis **Marine**, art‑thérapeute à Saint‑Maximin‑la‑Sainte‑Baume e
 J’accompagne les personnes dans leur exploration intérieure à travers une approche créative, sensible et profondément humaine. 
 Mon intention est d’offrir un espace où vous pouvez vous rencontrer sans vous brusquer.  
 
-{{< button href="/a-propos/" text="En savoir plus" icon="fa fa-feather" >}}  
+{{< button href="/a-propos/" text="En savoir plus" icon="fa fa-feather" >}}    
 
 
 {{<button 

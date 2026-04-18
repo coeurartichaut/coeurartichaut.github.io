@@ -24,7 +24,7 @@ Je vous reçois en présentiel à **Saint‑Maximin‑la‑Sainte‑Baume et dan
     href="/prestations-art-therapie/" 
     text="Déroulement d’un accompagnement" 
     icon="fa fa-hands-helping" 
->}}
+>}}  
 
 
 {{<button 

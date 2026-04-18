@@ -3,8 +3,8 @@ title: "Contact"
 description: "Contactez Marine pour une séance d'art-thérapie à Saint-Maximin-la-Sainte-Baume (83470). Par email ou SMS au 07 81 11 30 29. Réponse rapide"
 ---
 
-Merci de **privilégier les SMS**.
-📞 07 81 11 30 29
+Merci de **privilégier les SMS**.  
+📞 07 81 11 30 29  
 Si je suis indisponible, n’hésitez pas à laisser un message :  
 je vous recontacterai dès que possible.
 

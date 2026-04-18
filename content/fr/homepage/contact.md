@@ -13,10 +13,10 @@ detailed_page_homepage_content: true
 Je vous accueille en présentiel en Provence, dans un cadre propice au calme et au travail thérapeutique.
 Les séances peuvent également se dérouler en visio selon vos besoins.
 
-Merci de **privilégier les SMS**.
-📞 07 81 11 30 29
+Merci de **privilégier les SMS**.  
+📞 07 81 11 30 29  
 Si je suis indisponible, n’hésitez pas à laisser un message :  
-je vous recontacterai dès que possible.
+je vous recontacterai dès que possible.  
 
 
 ### ✨ Prendre rendez‑vous
