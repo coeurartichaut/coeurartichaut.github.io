@@ -15,4 +15,8 @@ L’art‑thérapie est une voie douce pour comprendre ce qui vous habite, dépo
 Mon approche repose sur la **douceur, le respect, la créativité et la sécurité**.  
 Vous avancez à votre rythme, sans pression et sans jugement.
 
-{{< icon name="blog">}} [Découvrir l’art‑thérapie](/quest-ce-que-art-therapie/)
+{{< button 
+    href="/quest-ce-que-art-therapie/" 
+    text="Découvrir l’art‑thérapie" 
+    icon="fa fa-blog" 
+>}}

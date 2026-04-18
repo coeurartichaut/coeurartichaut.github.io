@@ -1,0 +1,19 @@
+<div class="partner-card">
+  {{ if .Get "image" }}
+  <div class="partner-card-logo">
+    <img src="{{ .Get "image" }}" alt="{{ .Get "title" }}">
+  </div>
+  {{ end }}
+
+  <h2 class="partner-card-title">{{ .Get "title" }}</h2>
+
+  <div class="partner-card-content">
+    {{ .Inner | markdownify}}
+  </div>
+
+  {{ if .Get "link" }}
+  <div class="partner-card-button">
+    <a class="btn" href="{{ .Get "link" }}">En savoir plus</a>
+  </div>
+  {{ end }}
+</div>

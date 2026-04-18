@@ -17,4 +17,5 @@ detailed_page_homepage_content: true
 - Cadre confidentiel, bienveillant et sécurisant  
 
 Pour connaître les **horaires**, les **modalités de paiement** (présentiel et visio) et les informations pratiques détaillées, vous pouvez consulter la page dédiée :  
-👉 [Voir les horaires & modalités](/horaires-modalites/)
+
+{{< button href="/horaires-modalites/" text="Voir les horaires & modalités" icon="fa fa-clock" >}}

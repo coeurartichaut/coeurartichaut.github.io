@@ -59,7 +59,6 @@ Oui. Elle permet d’aborder autrement ce qui a été vécu : par le geste, la m
 ### Combien de séances sont nécessaires ?
 Il n’y a pas de nombre prédéfini. Certaines personnes viennent pour quelques séances, d’autres pour un accompagnement plus long. Le rythme se construit ensemble, selon vos besoins et votre cheminement.
 
-{{<extlink 
-    icon="fa fa-calendar-check" 
+{{<button icon="fa fa-calendar-check" 
     text=" Prendre rendez-vous" 
     href="mailto:contact@coeurartichaut.fr?subject=Demande de rendez-vous d'art-thérapie&body=Bonjour Marine,%0D%0A%0D%0AJe souhaite prendre rendez-vous pour une séance d'art-thérapie.%0D%0A%0D%0AVoici quelques informations :%0D%0A- Nom : %0D%0A- Prénom : %0D%0A- Téléphone : %0D%0A- Motif de la demande : %0D%0A- Lieu de la séance (visio, cabinet, domicile) : %0D%0A- Créneaux possibles : %0D%0A%0D%0AMerci,%0D%0A">}}

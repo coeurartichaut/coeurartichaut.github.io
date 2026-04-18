@@ -20,8 +20,7 @@ Pour les **séances en visio**, le règlement s’effectue **avant la séance**,
 Le paiement s’effectue à chaque séance, dans un cadre simple et transparent.
 
 
-{{<extlink 
-    icon="fa fa-calendar-check" text=" Prendre rendez-vous" href="mailto:contact@coeurartichaut.fr?subject=Demande de rendez-vous d'art-thérapie&body=Bonjour Marine,%0D%0A%0D%0AJe souhaite prendre rendez-vous pour une séance d'art-thérapie.%0D%0A%0D%0AVoici quelques informations :%0D%0A- Nom : %0D%0A- Prénom : %0D%0A- Téléphone : %0D%0A- Motif de la demande : %0D%0A- Lieu de la séance (visio, cabinet, domicile) : %0D%0A- Créneaux possibles : %0D%0A%0D%0AMerci,%0D%0A">}}
+{{<button icon="fa fa-calendar-check" text=" Prendre rendez-vous" href="mailto:contact@coeurartichaut.fr?subject=Demande de rendez-vous d'art-thérapie&body=Bonjour Marine,%0D%0A%0D%0AJe souhaite prendre rendez-vous pour une séance d'art-thérapie.%0D%0A%0D%0AVoici quelques informations :%0D%0A- Nom : %0D%0A- Prénom : %0D%0A- Téléphone : %0D%0A- Motif de la demande : %0D%0A- Lieu de la séance (visio, cabinet, domicile) : %0D%0A- Créneaux possibles : %0D%0A%0D%0AMerci,%0D%0A">}}
 
 ---
 
@@ -31,3 +30,10 @@ Le paiement s’effectue à chaque séance, dans un cadre simple et transparent.
 - Séances en visio possibles selon vos besoins  
 - Accompagnement pour adultes, enfants et familles  
 - Cadre confidentiel, bienveillant et sécurisant  
+
+{{< book-card 
+    cover="/images/couverture-livre.png"
+    title="Cœur Artichaut — plus qu'un livre, un guide thérapeutique"
+    text="Un ouvrage pensé pour accompagner, éclairer et ouvrir des espaces sensibles."
+    link="https://www.amazon.fr/dp/B0GVY9YH88"
+    button="Acheter le guide">}}

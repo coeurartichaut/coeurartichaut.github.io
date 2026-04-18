@@ -5,7 +5,7 @@ description: "L'art-thérapie utilise la création pour exprimer émotions et bl
 
 L’art‑thérapie est un espace rare où l’on peut enfin déposer ce que les mots n’arrivent pas toujours à exprimer. Il ne s’agit pas de « faire de l’art » ni de produire quelque chose de beau. L’objectif est de **se reconnecter à soi**, d’explorer son monde intérieur et de laisser les couleurs, les formes, les gestes ou les mots devenir des chemins vers une meilleure compréhension de ce que l’on traverse.
 
-![Illustration d’art‑thérapie – Cœur Artichaut](images/media_5.png)
+![Illustration d’art‑thérapie – Cœur Artichaut](/images/media_5.png)
 
 Selon vos besoins, l’art‑thérapie peut prendre différentes formes : dessin, peinture, collage, écriture intuitive, musique, voix, modelage, mouvement corporel ou exploration sensorielle. Chaque média ouvre une porte différente, et c’est souvent cette diversité qui permet d’accéder à ce qui était resté bloqué ou difficile à dire.
 
@@ -41,7 +41,15 @@ Oui. Les séances peuvent se dérouler en visio si vous ne pouvez pas vous dépl
 ### L’art‑thérapie peut‑elle aider en cas de stress, d’anxiété ou d’hypersensibilité ?
 Oui. L’art‑thérapie est particulièrement aidante pour **apaiser les émotions**, réguler le stress, soutenir l’hypersensibilité, traverser des périodes de surcharge ou retrouver un espace intérieur plus stable.
 
-{{<extlink 
+{{<button 
     icon="fa fa-calendar-check" 
     text=" Prendre rendez-vous" 
     href="mailto:contact@coeurartichaut.fr?subject=Demande de rendez-vous d'art-thérapie&body=Bonjour Marine,%0D%0A%0D%0AJe souhaite prendre rendez-vous pour une séance d'art-thérapie.%0D%0A%0D%0AVoici quelques informations :%0D%0A- Nom : %0D%0A- Prénom : %0D%0A- Téléphone : %0D%0A- Motif de la demande : %0D%0A- Lieu de la séance (visio, cabinet, domicile) : %0D%0A- Créneaux possibles : %0D%0A%0D%0AMerci,%0D%0A">}}
+
+{{< book-card 
+    cover="/images/couverture-livre.png"
+    title="Cœur Artichaut — plus qu'un livre, un guide thérapeutique"
+    text="Un ouvrage pensé pour accompagner, éclairer et ouvrir des espaces sensibles."
+    link="https://www.amazon.fr/dp/B0GVY9YH88"
+    button="Acheter le guide"
+>}}

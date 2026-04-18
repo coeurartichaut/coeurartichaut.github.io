@@ -5,7 +5,83 @@
 --footer-color: #ffff !important;
 --section-light-text-color:var(--cover-text-color) !important;
 --color-text:var(--cover-text-color) !important;
+ --highlight: #9caf57 !important; 
 }
+/* Boutons Markdown {.button} */
+.button,
+a.button {
+  display:inline-block;
+  background:#9caf57;
+  color:#ffffff !important;
+  padding:12px 26px;
+  border-radius:8px;
+  text-decoration:none !important;
+  font-weight:600;
+  font-size:17px;
+  box-shadow:0 2px 6px rgba(0,0,0,0.12);
+  transition:all 0.2s ease;
+  text-align:center;
+  line-height:1.3;
+  }
+
+.button:not(:last-child) {
+  margin-bottom: 12px;
+}
+
+/* Hover */
+.button:hover,
+a.button:hover {
+  background:#37501a;
+}
+
+/* Responsive : bouton pleine largeur sur mobile */
+@media (max-width: 480px) {
+  .button,
+  a.button {
+    width:100%;
+    padding:14px 0;
+    font-size:18px;
+  }
+}
+
+.partner-card {
+  font-size: 1rem !important;
+  line-height: 1.5 !important;
+  padding: 1.5rem !important;
+  background: #fafafa;
+  border-radius: 12px;
+  border: 1px solid #e8e8e8;
+  max-width: 700px;
+  margin: 0 auto 2rem;
+}
+
+.partner-card-title {
+  font-size: 1.4rem !important;
+  margin-bottom: 1rem;
+  color: #3f3f3f;
+}
+
+.partner-card-content p {
+  font-size: 1rem !important;
+  margin-bottom: 0.8rem;
+}
+
+.partner-card-content strong {
+  font-size: 1.05rem !important;
+}
+
+.partner-card-content li {
+  font-size: 1rem !important;
+}
+
+.partner-card-logo img {
+  max-width: 120px !important;
+  height: auto;
+  display: block;
+  margin: 0 auto 1rem;
+}
+
+
 </style>
 <link rel="canonical" href="{{ .Permalink }}">
 <!-- Open Graph -->
