@@ -1,0 +1,19 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<link rel="icon" href="/images/favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Nunito+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+{{ partial "custom_head.html" . }}
+<style>
+html{scroll-behavior:smooth}
+body{margin:0;background:#FAF6EE}
+a{color:#3E5530}a:hover{color:#2B3B22}
+section{scroll-margin-top:90px}
+[style*="flex: 1 1"]{min-width:0}
+img{max-width:100%}
+.prose a{overflow-wrap:anywhere}
+h1,h2{overflow-wrap:break-word}
+@media (max-width:700px){.hero-title{font-size:42px !important}h2{font-size:36px !important}body header{position:static !important}body header nav{gap:4px 16px !important}body header nav a{padding-top:8px;padding-bottom:8px}}
+</style>

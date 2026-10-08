@@ -1,5 +1,6 @@
 ---
-title: "🔗 Ressources & Partenaires"
+title: "Ressources & partenaires en art‑thérapie"
+description: "Les livres Cœur Artichaut et une sélection de partenaires de confiance, choisis par Marine, art-thérapeute à Saint-Maximin, pour leur éthique et leur humanité."
 ---
 
 Une sélection de ressources et de partenaires de confiance, choisis pour leur éthique, leur humanité et la qualité de leur accompagnement.

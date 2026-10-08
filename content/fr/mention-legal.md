@@ -1,5 +1,6 @@
 ---
-title: " 🛡️ Mentions légales – Cabinet d’art‑thérapie Cœur Artichaut"
+title: "Mentions légales – Cabinet d’art‑thérapie Cœur Artichaut"
+description: "Mentions légales et politique de confidentialité du site Cœur Artichaut, cabinet d’art-thérapie de Marine Genteuil à Saint-Maximin-la-Sainte-Baume (Var)."
 ---
 
 ### 1. Éditeur du site
@@ -37,7 +38,7 @@ Pour toute problématique de santé, il est recommandé de consulter un professi
 ---
 
 ### 5. Protection des données personnelles (RGPD)
-Les informations collectées via les formulaires du site (nom, e‑mail, téléphone, message) sont utilisées uniquement pour répondre aux demandes de contact ou de renseignements.  
+Le site ne comporte aucun formulaire. Les informations que vous transmettez par e‑mail ou par SMS (nom, e‑mail, téléphone, message) sont utilisées uniquement pour répondre aux demandes de contact ou de renseignements.  
 Elles ne sont ni vendues, ni cédées à des tiers.
 
 Conformément au RGPD et à la loi « Informatique et Libertés », vous disposez d’un droit d’accès, de rectification, de suppression et d’opposition concernant vos données personnelles.

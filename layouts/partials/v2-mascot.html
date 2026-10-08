@@ -1,0 +1,8 @@
+{{- /* Arti ou Chou avec une bulle. Paramètres : who ("arti" | "chou"), text (HTML), size (px, défaut 96). */ -}}
+{{- $size := .size | default 96 -}}
+{{- $name := cond (eq .who "chou") "Chou" "Arti" -}}
+{{- $alt := cond (eq .who "chou") "Chou, la mascotte au cœur orange, un pinceau à la main" "Arti, la mascotte verte, un carnet à la main" -}}
+<figure class="mascot" style="margin: 0; display: flex; align-items: flex-end; gap: 14px; max-width: 520px">
+<img loading="lazy" src="/images/v2/{{ .who }}.webp" alt="{{ $alt }}" width="{{ $size }}" height="{{ math.Round (mul $size 1.06) }}" style="flex: 0 0 auto; width: {{ $size }}px; height: auto; border-radius: 0; margin: 0">
+<figcaption style="position: relative; background: #FFFFFF; border: 1px solid #E4DCCB; border-radius: 18px 18px 18px 4px; padding: 12px 16px; margin-bottom: 18px; font-size: 15px; line-height: 1.5; color: #46503B"><strong style="color: {{ cond (eq .who "chou") "#A04B22" "#3E5530" }}">{{ $name }} :</strong> {{ .text | safeHTML }}</figcaption>
+</figure>

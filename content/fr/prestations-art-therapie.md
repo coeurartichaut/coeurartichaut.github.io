@@ -1,5 +1,5 @@
 ---
-title: "Prestations d’art‑thérapie à Saint‑Maximin‑la‑Sainte‑Baume"
+title: "Prestations d’art-thérapie à Saint-Maximin-la-Sainte-Baume"
 description: "Séances d'art-thérapie à Saint-Maximin-la-Sainte-Baume : 60 € en présentiel, 50 € en visio. Accompagnement individuel pour adultes et enfants. Réservez votre séance."
 ---
 
@@ -7,19 +7,24 @@ description: "Séances d'art-thérapie à Saint-Maximin-la-Sainte-Baume : 60 €
 
 ## Consultation d’art‑thérapie
 
-Séance individuelle — **1h en présentiel : 60 euros**  
+Séance individuelle — **1h en présentiel (cabinet ou domicile) : 60 euros**  
 *(Matériel créatif inclus)*
 
 Séance individuelle — **1h en ligne : 50 euros**  
 
+Séance individuelle de [land art](/land-art-therapie/) — **1h en extérieur : 50 euros**  
+
 {{<button icon="fa fa-clinic-medical" text="Quelles mutuelles remboursent les consultations en Art-thérapie ?" href="https://www.resalib.fr/remboursement/mutuelle/specialite/15-art-therapie">}} 
 
 Chaque séance d’art‑thérapie est un espace d’accueil, de création et de mise en mots.  
-Je vous reçois en présentiel à **Saint‑Maximin‑la‑Sainte‑Baume et dans les environs**, dans un cadre chaleureux et apaisant, ou en visio selon vos besoins.
+Je vous reçois au cabinet ou à domicile à **Saint‑Maximin‑la‑Sainte‑Baume et dans les environs**, dans un cadre chaleureux et apaisant, en extérieur pour le land art, ou en visio selon vos besoins.  
+Ce qui se dit et se crée en séance reste confidentiel.
+
+{{< certification >}}
 
 ---
 
-### 🤝🌿 Déroulement d’un accompagnement
+### Déroulement d’un accompagnement
 
 L’accompagnement commence par **une première séance**, un temps d’échange pour comprendre vos besoins, clarifier votre intention et poser un cadre sécurisant.
 
@@ -31,7 +36,7 @@ L’art‑thérapie se construit **sur plusieurs séances**, dont le nombre, la 
 
 ---
 
-## ❓ FAQ – Questions fréquentes
+## FAQ – Questions fréquentes
 
 ### L’art‑thérapie nécessite‑t‑elle un talent artistique ?
 Non. L’art‑thérapie ne repose pas sur la performance ou l’esthétique.  
@@ -48,13 +53,13 @@ Oui. L’art‑thérapie est particulièrement aidante pour les enfants : expres
 Oui. Les séances peuvent se dérouler en visio si vous ne pouvez pas vous déplacer ou si vous préférez un accompagnement à distance.
 
 ### Que peut m’apporter une séance d’art‑thérapie ?
-Un espace pour déposer, comprendre, transformer, respirer, créer, et vous reconnecter à vous‑même avec douceur.
+Un espace pour déposer, comprendre, transformer, respirer, créer, et vous reconnecter à vous‑même.
 
 ---
 
-## ✨ Prendre rendez‑vous
+## Prendre rendez‑vous
 
 Vous souhaitez commencer un accompagnement ou poser une question ?  
 Je vous répondrai avec plaisir.
 
-{{<button icon="fa fa-calendar-check" text=" Prendre rendez-vous"   href="mailto:contact@coeurartichaut.fr?subject=Demande de rendez-vous d'art-thérapie&body=Bonjour Marine,%0D%0A%0D%0AJe souhaite prendre rendez-vous pour une séance d'art-thérapie.%0D%0A%0D%0AVoici quelques informations :%0D%0A- Nom : %0D%0A- Prénom : %0D%0A- Téléphone : %0D%0A- Motif de la demande : %0D%0A- Lieu de la séance (visio, cabinet, domicile) : %0D%0A- Créneaux possibles : %0D%0A%0D%0AMerci,%0D%0A">}}
+{{<button icon="fa fa-calendar-check" text=" Prendre rendez-vous"   href="mailto:contact@coeurartichaut.fr?subject=Demande de rendez-vous d'art-thérapie&body=Bonjour Marine,%0D%0A%0D%0AJe souhaite prendre rendez-vous pour une séance d'art-thérapie.%0D%0A%0D%0AVoici quelques informations :%0D%0A- Nom : %0D%0A- Prénom : %0D%0A- Téléphone : %0D%0A- Motif de la demande : %0D%0A- Lieu de la séance (cabinet, domicile, extérieur, visio) : %0D%0A- Créneaux possibles : %0D%0A%0D%0AMerci,%0D%0A">}}

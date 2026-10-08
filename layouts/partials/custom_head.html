@@ -87,18 +87,35 @@ a.button:hover {
 <!-- Open Graph -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Cœur Artichaut">
+{{ if .IsHome }}
 <meta property="og:title" content="Art thérapeute à Saint‑Maximin (Var)">
 <meta property="og:description" content="Séances d’art‑thérapie pour adultes, enfants et adolescents à Saint‑Maximin-la-Sainte-Baume. Une approche sensible, créative et sécurisante.">
-<meta property="og:url" content="https://www.coeurartichaut.fr/">
-<meta property="og:image" content="https://www.coeurartichaut.fr/images/og-image.png">
+{{ else }}
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+{{ end }}
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:image" content="https://www.coeurartichaut.fr/images/og-image.jpg">
 <meta property="og:locale" content="fr_FR">
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
+{{ if .IsHome }}
 <meta name="twitter:title" content="Art thérapeute à Saint‑Maximin (Var)">
 <meta name="twitter:description" content="Séances d’art‑thérapie pour adultes, enfants et adolescents à Saint‑Maximin-la-Sainte-Baume. Une approche sensible, créative et sécurisante.">
+{{ else }}
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+{{ end }}
 <meta name="twitter:image" content="https://www.coeurartichaut.fr/images/og-image.jpg">
 
+{{ if not .IsHome }}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://www.coeurartichaut.fr/"},{"@type":"ListItem","position":2,"name":{{ .Title }},"item":{{ .Permalink }}}]}
+</script>
+{{ end }}
+
+{{ if .IsHome }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -119,7 +136,7 @@ a.button:hover {
         "postalCode": "83470",
         "addressCountry": "FR"
       },
-      "openingHours": "Mo-Fr 09:00-18:00",
+      "openingHours": "Mo-Fr 07:00-21:00",
       "areaServed": [
         "Saint-Maximin-la-Sainte-Baume",
         "Brignoles",
@@ -230,3 +247,4 @@ a.button:hover {
   ]
 }
 </script>
+{{ end }}

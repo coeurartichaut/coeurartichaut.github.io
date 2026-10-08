@@ -1,11 +1,11 @@
 ---
-title: "Qu’est‑ce que l’art‑thérapie ?"
+title: "Qu’est‑ce que l’art‑thérapie ? Séances à Saint‑Maximin (Var)"
 description: "L'art-thérapie utilise la création pour exprimer émotions et blocages. Aucun talent requis. Découvrez cette approche douce, accessible à tous à Saint-Maximin."
 ---
 
 L’art‑thérapie est un espace rare où l’on peut enfin déposer ce que les mots n’arrivent pas toujours à exprimer. Il ne s’agit pas de « faire de l’art » ni de produire quelque chose de beau. L’objectif est de **se reconnecter à soi**, d’explorer son monde intérieur et de laisser les couleurs, les formes, les gestes ou les mots devenir des chemins vers une meilleure compréhension de ce que l’on traverse.
 
-![Illustration d’art‑thérapie – Cœur Artichaut](/images/media_5.png)
+![Illustration d’art‑thérapie – Cœur Artichaut](/images/media_5.webp)
 
 Selon vos besoins, l’art‑thérapie peut prendre différentes formes : dessin, peinture, collage, écriture intuitive, musique, voix, modelage, mouvement corporel ou exploration sensorielle. Chaque média ouvre une porte différente, et c’est souvent cette diversité qui permet d’accéder à ce qui était resté bloqué ou difficile à dire.
 
@@ -15,7 +15,7 @@ Si vous sentez qu’une part de vous a besoin d’être entendue autrement que p
 
 ---
 
-## ❓ FAQ – Art‑thérapie : questions fréquentes
+## FAQ – Art‑thérapie : questions fréquentes
 
 ### L’art‑thérapie nécessite‑t‑elle un talent artistique ?
 Non. L’art‑thérapie ne repose pas sur la performance ni sur l’esthétique. Elle s’appuie sur le **processus créatif**, accessible à tous, pour exprimer ce qui est difficile à dire avec des mots.
@@ -44,7 +44,7 @@ Oui. L’art‑thérapie est particulièrement aidante pour **apaiser les émoti
 {{<button 
     icon="fa fa-calendar-check" 
     text=" Prendre rendez-vous" 
-    href="mailto:contact@coeurartichaut.fr?subject=Demande de rendez-vous d'art-thérapie&body=Bonjour Marine,%0D%0A%0D%0AJe souhaite prendre rendez-vous pour une séance d'art-thérapie.%0D%0A%0D%0AVoici quelques informations :%0D%0A- Nom : %0D%0A- Prénom : %0D%0A- Téléphone : %0D%0A- Motif de la demande : %0D%0A- Lieu de la séance (visio, cabinet, domicile) : %0D%0A- Créneaux possibles : %0D%0A%0D%0AMerci,%0D%0A">}}
+    href="mailto:contact@coeurartichaut.fr?subject=Demande de rendez-vous d'art-thérapie&body=Bonjour Marine,%0D%0A%0D%0AJe souhaite prendre rendez-vous pour une séance d'art-thérapie.%0D%0A%0D%0AVoici quelques informations :%0D%0A- Nom : %0D%0A- Prénom : %0D%0A- Téléphone : %0D%0A- Motif de la demande : %0D%0A- Lieu de la séance (cabinet, domicile, extérieur, visio) : %0D%0A- Créneaux possibles : %0D%0A%0D%0AMerci,%0D%0A">}}
 
 {{< book-card 
     cover="/images/couverture-livre.png"

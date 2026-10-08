@@ -1,5 +1,5 @@
 ---
-title: "Pourquoi consulter ?"
+title: "Pourquoi consulter un art‑thérapeute ?"
 description: "Stress, anxiété, hypersensibilité, blocages intérieurs… L'art-thérapie aide à avancer sans tout expliquer. Accompagnement pour adultes et adolescents à Saint-Maximin."
 ---
 
@@ -7,7 +7,7 @@ L’art‑thérapie devient une ressource précieuse lorsque l’on ressent le b
 
 ---
 
-### 🌾 Des raisons que beaucoup de personnes reconnaissent
+### Des raisons que beaucoup de personnes reconnaissent
 
 - **Quand on tourne en rond** — la sensation de répéter les mêmes schémas, les mêmes réactions, sans réussir à en sortir.
 - **Quand l’esprit est trop plein** — mille pensées, mille obligations, et la difficulté à se poser ou à retrouver de la clarté.
@@ -16,7 +16,7 @@ L’art‑thérapie devient une ressource précieuse lorsque l’on ressent le b
 
 ---
 
-### 🌙 Des situations plus spécifiques, mais très fréquentes
+### Des situations plus spécifiques, mais très fréquentes
 
 - **Un blocage intérieur difficile à nommer**, mais qui appelle à être dénoué.
 - **Une période de changement** (transition, rupture, déménagement, nouveau départ) qui demande un espace pour intégrer ce qui se transforme.
@@ -25,7 +25,7 @@ L’art‑thérapie devient une ressource précieuse lorsque l’on ressent le b
 
 ---
 
-### 🌱 Quand l’art‑thérapie devient un soutien
+### Quand l’art‑thérapie devient un soutien
 
 L’art‑thérapie offre un lieu pour se recentrer, se découvrir autrement et ouvrir une nouvelle manière d’avancer. Elle permet d’exprimer ce qui est difficile à dire, de clarifier ce qui se brouille, d’apaiser ce qui pèse et de retrouver un espace intérieur plus stable.
 
@@ -33,7 +33,7 @@ Si vous sentez qu’une part de vous appelle à **explorer**, **comprendre**, **
 
 ---
 
-## ❓ FAQ – Pourquoi consulter en art‑thérapie ?
+## FAQ – Pourquoi consulter en art‑thérapie ?
 
 ### L’art‑thérapie est‑elle réservée aux personnes qui vont mal ?
 Non. Beaucoup de personnes consultent pour mieux se comprendre, retrouver du sens, apaiser leur mental ou s’offrir un espace de respiration intérieure. L’art‑thérapie accompagne aussi bien les périodes difficiles que les moments de transition ou de recherche d’alignement.
@@ -61,4 +61,4 @@ Il n’y a pas de nombre prédéfini. Certaines personnes viennent pour quelques
 
 {{<button icon="fa fa-calendar-check" 
     text=" Prendre rendez-vous" 
-    href="mailto:contact@coeurartichaut.fr?subject=Demande de rendez-vous d'art-thérapie&body=Bonjour Marine,%0D%0A%0D%0AJe souhaite prendre rendez-vous pour une séance d'art-thérapie.%0D%0A%0D%0AVoici quelques informations :%0D%0A- Nom : %0D%0A- Prénom : %0D%0A- Téléphone : %0D%0A- Motif de la demande : %0D%0A- Lieu de la séance (visio, cabinet, domicile) : %0D%0A- Créneaux possibles : %0D%0A%0D%0AMerci,%0D%0A">}}
+    href="mailto:contact@coeurartichaut.fr?subject=Demande de rendez-vous d'art-thérapie&body=Bonjour Marine,%0D%0A%0D%0AJe souhaite prendre rendez-vous pour une séance d'art-thérapie.%0D%0A%0D%0AVoici quelques informations :%0D%0A- Nom : %0D%0A- Prénom : %0D%0A- Téléphone : %0D%0A- Motif de la demande : %0D%0A- Lieu de la séance (cabinet, domicile, extérieur, visio) : %0D%0A- Créneaux possibles : %0D%0A%0D%0AMerci,%0D%0A">}}

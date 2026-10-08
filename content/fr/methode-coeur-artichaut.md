@@ -1,20 +1,18 @@
 ---
-title: "🌿 La Méthode Cœur Artichaut™"
-description: "La Méthode Cœur Artichaut™ : une approche d'art-thérapie structurée en 3 phases pour explorer vos émotions, identifier vos ressources et avancer concrètement."
+title: "La Méthode Cœur Artichaut™ : l’art‑thérapie à Saint‑Maximin"
+description: "La Méthode Cœur Artichaut™ : une approche d'art-thérapie structurée, avec des séances en 3 temps : explorer, comprendre, avancer, pour progresser concrètement."
 ---
 
----
-
-### Une approche d’art‑thérapie structurée, progressive et accessible
+## Une approche d’art‑thérapie structurée, progressive et accessible
 
 La **méthode Cœur Artichaut™** est une approche d’art‑thérapie professionnelle conçue pour aider les personnes à comprendre ce qu’elles vivent, à clarifier leurs émotions et à avancer avec des repères concrets.  
-Elle repose sur un protocole précis, progressif et sécurisant, qui combine expression artistique, analyse structurée et mise en action.
+Elle repose sur un protocole précis et progressif, qui combine expression artistique, analyse structurée et mise en action.
 
-Cette méthode a été développée pour accompagner les enfants, les adolescents et les adultes qui ressentent le besoin de mieux se comprendre, de retrouver de la stabilité émotionnelle ou de dépasser une période difficile.
+Cette méthode, que je pratique au cabinet à Saint‑Maximin‑la‑Sainte‑Baume (Var) et en visio, a été développée pour accompagner les enfants, les adolescents et les adultes qui ressentent le besoin de mieux se comprendre, de retrouver de la stabilité émotionnelle ou de dépasser une période difficile.
 
 ---
 
-# 🌿 Une méthode pensée pour vous aider à avancer
+## Une méthode pensée pour vous aider à avancer
 
 La méthode Cœur Artichaut™ s’appuie sur un principe simple :  
 **avancer par couches successives**, comme on ouvrirait un artichaut.
@@ -29,11 +27,11 @@ L’objectif n’est pas seulement d’exprimer, mais de :
 
 ---
 
-# 🌿 Comment se déroule une séance ?
+## Le déroulé d’une séance, en 3 temps
 
 Chaque séance suit une structure claire, en trois temps :
 
-## **1. Explorer**  
+### 1. Explorer
 Vous commencez par une courte activité artistique accessible (dessin, collage, modelage, écriture brève).  
 Aucune compétence artistique n’est nécessaire : l’objectif est de laisser émerger ce qui se passe en vous, sans pression.
 
@@ -45,7 +43,7 @@ Cette première étape permet d’identifier ce qui demande attention :
 
 ---
 
-## **2. Comprendre**  
+### 2. Comprendre
 La production est ensuite observée à l’aide d’outils d’analyse spécifiques à la méthode Cœur Artichaut™.  
 Ces outils permettent de repérer :  
 - les dynamiques internes,  
@@ -60,7 +58,7 @@ Cette lecture professionnelle offre une compréhension fine de ce qui se joue en
 
 ---
 
-## **3. Avancer**  
+### 3. Avancer
 La séance se termine par une mise en mots claire et des pistes concrètes pour avancer.  
 Vous repartez avec :  
 - des repères,  
@@ -72,7 +70,7 @@ Cette étape est essentielle : elle transforme l’expérience en **changement r
 
 ---
 
-# 🌿 Pour qui ?
+## Pour qui ?
 
 La méthode Cœur Artichaut™ s’adresse à vous si vous souhaitez :  
 - mieux comprendre vos émotions,  
@@ -90,7 +88,7 @@ Elle convient :
 
 ---
 
-# 🌿 Ce qui distingue la méthode Cœur Artichaut™
+## Ce qui distingue la méthode Cœur Artichaut™
 
 - Une **progression par couches**, pensée pour respecter votre rythme.  
 - Des **outils d’analyse uniques**, développés spécifiquement pour cette méthode.  
@@ -101,7 +99,7 @@ Elle convient :
 
 ---
 
-# 🌿 Les bénéfices que vous pouvez en attendre
+## Les bénéfices que vous pouvez en attendre
 
 - Une meilleure compréhension de vous-même.  
 - Une diminution de la surcharge émotionnelle.  
@@ -113,20 +111,20 @@ Elle convient :
 
 ---
 
-# 🌿 Une méthode professionnelle, humaine et accessible
+## Une méthode professionnelle, humaine et accessible
 
 La méthode Cœur Artichaut™ a été conçue pour offrir un accompagnement à la fois **structuré** et **bienveillant**, **technique** et **accessible**, **profond** et **concret**.
 
-Elle s’adapte à chaque personne, à son rythme, à ses capacités et à ses objectifs.
+Elle s’adapte à chaque personne, à son rythme, à ses capacités et à ses objectifs. Pour découvrir l’approche en général, lisez [qu’est‑ce que l’art‑thérapie ?](/quest-ce-que-art-therapie/), et retrouvez le déroulé et les tarifs sur la page [prestations d’art‑thérapie](/prestations-art-therapie/).
 
 ---
 
-# 🌿 Envie d’essayer ?
+## Envie d’essayer ?
 
 Chaque séance est une étape vers plus de clarté, de compréhension et de stabilité.  
 Vous n’avez pas besoin de savoir dessiner, modeler ou créer : vous avez simplement besoin d’être là, tel que vous êtes.  
 
-{{<button icon="fa fa-calendar-check" text=" Prendre rendez-vous" href="mailto:contact@coeurartichaut.fr?subject=Demande de rendez-vous d'art-thérapie&body=Bonjour Marine,%0D%0A%0D%0AJe souhaite prendre rendez-vous pour une séance d'art-thérapie.%0D%0A%0D%0AVoici quelques informations :%0D%0A- Nom : %0D%0A- Prénom : %0D%0A- Téléphone : %0D%0A- Motif de la demande : %0D%0A- Lieu de la séance (visio, cabinet, domicile) : %0D%0A- Créneaux possibles : %0D%0A%0D%0AMerci,%0D%0A">}}  
+{{<button icon="fa fa-calendar-check" text=" Prendre rendez-vous" href="mailto:contact@coeurartichaut.fr?subject=Demande de rendez-vous d'art-thérapie&body=Bonjour Marine,%0D%0A%0D%0AJe souhaite prendre rendez-vous pour une séance d'art-thérapie.%0D%0A%0D%0AVoici quelques informations :%0D%0A- Nom : %0D%0A- Prénom : %0D%0A- Téléphone : %0D%0A- Motif de la demande : %0D%0A- Lieu de la séance (cabinet, domicile, extérieur, visio) : %0D%0A- Créneaux possibles : %0D%0A%0D%0AMerci,%0D%0A">}}  
 
 {{< book-card 
     cover="/images/couverture-livre.png"
