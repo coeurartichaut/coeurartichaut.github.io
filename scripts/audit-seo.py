@@ -13,19 +13,21 @@ for u,h in sorted(pages.items()):
   body=re.sub(r'(?s)<head.*?</head>|<script.*?</script>|<style.*?</style>','',h); words=len(re.findall(r'\w+',re.sub('<[^>]+>',' ',body)))
   imgs=re.findall(r'<img[^>]*>',h)
   ld=[]
-  for j in re.findall(r'(?s)<script type="application/ld\+json">(.*?)</script>',h):
+  for j in re.findall(r'(?s)<script type="?application/ld\+json"?>(.*?)</script>',h):
     try: json.loads(j); ld.append('ok')
     except Exception: ld.append('INVALID')
-  canon=re.search(r'rel="?canonical"? href="([^"]*)"',h)
+  canon=re.search(r'rel="?canonical"? href="?([^" >]+)',h)
   emo='OUI' if re.search('[\U0001F300-\U0001FAFF]',t) else 'non'
-  print(f"{u:28} T{len(t):3} D{len(d):3} h1={h.count('<h1')} h2={h.count('<h2')} mots={words:5} img={len(imgs)} sansalt={sum('alt=' not in i for i in imgs)} altvide={sum('alt=\"\"' in i for i in imgs)} ld={ld} canon={'ok' if canon else 'NON'} emoji={emo}")
+  noalt=sum(1 for im in imgs if not re.search(r'\balt\b',im))
+  emptyalt=sum(1 for im in imgs if re.search(r'\balt(=""|[\s>/])',im))
+  print(f"{u:28} T{len(t):3} D{len(d):3} h1={h.count('<h1')} h2={h.count('<h2')} mots={words:5} img={len(imgs)} sansalt={noalt} altvide={emptyalt} ld={ld} canon={'ok' if canon else 'NON'} emoji={emo}")
   print(f"   titre: {t}")
 print("DESCRIPTIONS DUPLIQUEES:",[(k[:50],v) for k,v in descs.items() if len(v)>1])
 bad=set()
 for u,h in pages.items():
-  for l in re.findall(r'href="(/[^"#?]*)',h):
+  for l in re.findall(r'href="?(/[^"#? >]*)',h):
     if not os.path.exists(sp+l) and not os.path.exists(sp+l+'index.html'): bad.add((u,l))
-  for s in re.findall(r'src="(/[^"]*)"',h):
+  for s in re.findall(r'src="?(/[^" >]*)',h):
     if not os.path.exists(sp+s): bad.add((u,s))
 print("LIENS/IMAGES CASSES:",bad)
 sm=open(sp+'/sitemap.xml',encoding='utf-8').read(); print("sitemap:",len(re.findall('<loc>',sm)),"urls; 404 dans sitemap:", '404' in sm)

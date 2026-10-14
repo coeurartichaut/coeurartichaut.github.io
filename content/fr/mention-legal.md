@@ -3,7 +3,7 @@ title: "Mentions légales – Cabinet d’art‑thérapie Cœur Artichaut"
 description: "Mentions légales et politique de confidentialité du site Cœur Artichaut, cabinet d’art-thérapie de Marine Genteuil à Saint-Maximin-la-Sainte-Baume (Var)."
 ---
 
-### 1. Éditeur du site
+## 1. Éditeur du site
 **Nom du cabinet :** Cœur Artichaut  
 **Statut juridique :** Entreprise individuelle  
 **Responsable de la publication :** Marine Genteuil  
@@ -16,28 +16,28 @@ Le site Cœur Artichaut présente l’activité d’art‑thérapie proposée pa
 
 ---
 
-### 2. Hébergeur du site
+## 2. Hébergeur du site
 Le site est hébergé par **GitHub Pages**, un service proposé par GitHub, Inc.  
 **Adresse :** 88 Colin P. Kelly Jr St, San Francisco, CA 94107, USA  
 **Site :** https://pages.github.com  
 
 ---
 
-### 3. Propriété intellectuelle
+## 3. Propriété intellectuelle
 L’ensemble du contenu présent sur ce site (textes, images, illustrations, logos, éléments graphiques, structure générale) est la propriété exclusive de Cœur Artichaut, sauf mention contraire.
 
 Toute reproduction, représentation, modification ou diffusion, totale ou partielle, sans autorisation écrite préalable, est strictement interdite conformément au Code de la propriété intellectuelle.
 
 ---
 
-### 4. Activité d’art‑thérapie
+## 4. Activité d’art‑thérapie
 L’art‑thérapie proposée par Cœur Artichaut s’inscrit dans une démarche d’expression, de mieux‑être et d’accompagnement créatif.  
 Elle ne se substitue en aucun cas à un suivi médical, psychologique ou psychiatrique.  
 Pour toute problématique de santé, il est recommandé de consulter un professionnel de santé qualifié.
 
 ---
 
-### 5. Protection des données personnelles (RGPD)
+## 5. Protection des données personnelles (RGPD)
 Le site ne comporte aucun formulaire. Les informations que vous transmettez par e‑mail ou par SMS (nom, e‑mail, téléphone, message) sont utilisées uniquement pour répondre aux demandes de contact ou de renseignements.  
 Elles ne sont ni vendues, ni cédées à des tiers.
 
@@ -51,14 +51,14 @@ Les messages transmis par e‑mail sont conservés uniquement le temps nécessai
 
 ---
 
-### 6. Cookies
+## 6. Cookies
 Le site peut utiliser des cookies techniques nécessaires à son fonctionnement (navigation, affichage, sécurité).  
 Vous pouvez configurer votre navigateur pour refuser ou supprimer les cookies.  
 Aucun cookie publicitaire ou de suivi n’est installé sans votre consentement.
 
 ---
 
-### 7. Responsabilité
+## 7. Responsabilité
 Les informations présentes sur le site sont fournies à titre indicatif et peuvent être mises à jour à tout moment.  
 Cœur Artichaut ne saurait être tenu responsable des omissions, inexactitudes ou erreurs éventuelles.
 
@@ -66,8 +66,8 @@ Les liens externes présents sur le site ne relèvent pas de la responsabilité 
 
 ---
 
-### 8. Contact
+## 8. Contact
 Pour toute question concernant ces mentions légales ou le fonctionnement du site :  
 **contact@coeurartichaut.fr**
 
-Dernière mise à jour : mars 2026.
+Dernière mise à jour : octobre 2026.

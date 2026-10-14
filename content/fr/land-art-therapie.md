@@ -1,5 +1,5 @@
 ---
-title: "Land art thérapeutique : créer avec la nature à Saint‑Maximin (Var)"
+title: "Land art thérapeutique : créer avec la nature (Var)"
 description: "Le land art en art-thérapie : créer dehors avec des éléments naturels pour s'apaiser et se reconnecter à soi. Séances individuelles près de Saint-Maximin, ateliers de groupe bientôt."
 ---
 

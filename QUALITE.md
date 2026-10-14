@@ -41,3 +41,5 @@ Contrôle automatique : `hugo --destination <dossier>` puis `python scripts/audi
 | 2026-10-08 | 95 | 99 | Déroulé de séance distinct des objectifs de la méthode, répliques d'Arti & Chou validées, répétitions allégées |
 | 2026-10-08 | 95 | 100 | Tarif à domicile confirmé (60 €, comme au cabinet) |
 | 2026-10-08 | 100 | 100 | Test mobile 375 px sur les 13 pages (débordements corrigés, menu non fixe sur mobile), images en WebP (jusqu'à −95 %), titre « Qu'est-ce que l'art-thérapie » localisé, page Contact enrichie (460 mots) |
+| 2026-10-14 | 97 | 100 | Mesure sur le site en ligne après ajout des pages mutuelle et entreprises et du duo. Notation plus stricte que la précédente : titre land art trop long (67 car.), pages À propos / Horaires / Mentions sans H2, page Horaires sous 300 mots |
+| 2026-10-14 | 100 | 100 | Titre land art raccourci (51 car.), H2 sur À propos / Horaires / Mentions, tarifs ajoutés à la page Horaires (366 mots), date des mentions légales mise à jour |
