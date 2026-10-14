@@ -1,6 +1,6 @@
 ---
 title: "Prestations d’art-thérapie à Saint-Maximin-la-Sainte-Baume"
-description: "Séances d'art-thérapie à Saint-Maximin-la-Sainte-Baume : 60 € en présentiel, 50 € en visio. Accompagnement individuel pour adultes et enfants. Réservez votre séance."
+description: "Séances d'art-thérapie à Saint-Maximin-la-Sainte-Baume : 60 € en présentiel, 50 € en visio, 40 € par personne en duo. Pour adultes, ados et enfants. Réservez votre séance."
 ---
 
 ---
@@ -14,7 +14,10 @@ Séance individuelle — **1h en ligne : 50 euros**
 
 Séance individuelle de [land art](/land-art-therapie/) — **1h en extérieur : 50 euros**  
 
-{{<button icon="fa fa-clinic-medical" text="Quelles mutuelles remboursent les consultations en Art-thérapie ?" href="https://www.resalib.fr/remboursement/mutuelle/specialite/15-art-therapie">}} 
+Séance en duo — **1h : 40 euros par personne**  
+*(parent et enfant, couple, frères et sœurs, amis…)*  
+
+{{<button icon="fa fa-clinic-medical" text="Quelles mutuelles remboursent les consultations en Art-thérapie ?" href="/art-therapie-remboursement-mutuelle/">}} 
 
 Chaque séance d’art‑thérapie est un espace d’accueil, de création et de mise en mots.  
 Je vous reçois au cabinet ou à domicile à **Saint‑Maximin‑la‑Sainte‑Baume et dans les environs**, dans un cadre chaleureux et apaisant, en extérieur pour le land art, ou en visio selon vos besoins.  

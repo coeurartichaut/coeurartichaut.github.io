@@ -39,6 +39,7 @@ Aucun talent artistique n’est nécessaire.
 - **À domicile**, à Saint‑Maximin et dans les communes proches (Brignoles, Nans‑les‑Pins, Pourrières…) : séance d’1 h à 60 €, matériel créatif fourni.
 - **En extérieur**, pour une séance de [land art](/land-art-therapie/) dans la nature autour de Saint‑Maximin : séance d’1 h à 50 €.
 - **En visio**, où que vous soyez : séance d’1 h à 50 €.
+- **En duo** : séance d’1 h, 40 € par personne (parent et enfant, couple, frères et sœurs, amis…).
 
 En présentiel, le règlement se fait en espèces ou par chèque ; en visio, par virement avant la séance.
 
@@ -48,7 +49,7 @@ En présentiel, le règlement se fait en espèces ou par chèque ; en visio, par
 
 - Séances d’art‑thérapie pour adultes, adolescents, enfants et familles  
 - Cadre confidentiel et sans jugement : ce qui se dit et se crée en séance reste confidentiel  
-- Certaines mutuelles prennent en charge l’art‑thérapie : [vérifier ma mutuelle](https://www.resalib.fr/remboursement/mutuelle/specialite/15-art-therapie)  
+- Certaines mutuelles prennent en charge l’art‑thérapie : [quelles mutuelles remboursent ?](/art-therapie-remboursement-mutuelle/)  
 
 Pour connaître les **horaires**, les **modalités de paiement** (présentiel et visio) et les informations pratiques détaillées, vous pouvez consulter la page dédiée :  
 

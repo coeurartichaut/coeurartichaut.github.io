@@ -8,7 +8,7 @@ for root,_,fs in os.walk(sp):
 descs={}
 for u,h in sorted(pages.items()):
   t=html.unescape(re.search(r'<title>(.*?)</title>',h,re.S).group(1).strip())
-  d=re.search(r'name="description" content="([^"]*)"',h); d=html.unescape(d.group(1)) if d else ''
+  d=re.search(r'name="?description"? content="([^"]*)"',h); d=html.unescape(d.group(1)) if d else ''
   descs.setdefault(d,[]).append(u)
   body=re.sub(r'(?s)<head.*?</head>|<script.*?</script>|<style.*?</style>','',h); words=len(re.findall(r'\w+',re.sub('<[^>]+>',' ',body)))
   imgs=re.findall(r'<img[^>]*>',h)

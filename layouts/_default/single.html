@@ -41,7 +41,7 @@
 <article class="prose">
 {{ .Content }}
 </article>
-{{ if and (not (in (string .Content) "books-v2")) (ne .File.ContentBaseName "mention-legal") }}
+{{ if and (not (in (string .Content) "books-v2")) (not (in (slice "mention-legal" "art-therapie-entreprise") .File.ContentBaseName)) }}
 <section class="prose" style="margin-top: 56px">
 <h2>Les livres Cœur Artichaut</h2>
 <p>Pour continuer le chemin entre deux séances, ou le commencer chez vous, à votre rythme.</p>
