@@ -18,7 +18,7 @@ Des émotions qui débordent ? Une semaine qui pique ? Venez les poser au milieu
 - **Le mercredi et le samedi**, et du lundi au vendredi pendant les vacances scolaires (hors dimanches, samedis de vacances et jours fériés).
 - **10 € par personne et par atelier**, quel que soit l’âge.
 - **Sur inscription**, par SMS ou par e‑mail.
-- **Un planning établi chaque quinzaine**, selon la météo et la lumière du jour. Premiers ateliers à partir du **lundi 19 octobre 2026**, pendant les vacances de la Toussaint.
+- **Un planning établi chaque quinzaine**, selon la météo et la lumière du jour.
 
 Si le minimum de 5 participants n’est pas atteint, je vous préviens la veille et je vous propose une autre date.
 

@@ -60,6 +60,6 @@ Prévoyez simplement une tenue et des chaussures adaptées à l’extérieur.
 
 ## Les ateliers de land art en groupe
 
-Les **ateliers de land art en groupe** commencent le **lundi 19 octobre 2026** : 21 ateliers d’une heure en pleine nature, pour enfants, adultes et seniors, à **10 € par personne**. Créer ensemble, en groupe et dehors, est une belle façon de partager un moment apaisant et de se relier aux autres.
+Je propose aussi des **ateliers de land art en groupe**, le mercredi et le samedi, et du lundi au vendredi pendant les vacances scolaires : 21 ateliers d’une heure en pleine nature, pour enfants, adultes et seniors, à **10 € par personne**. Créer ensemble, en groupe et dehors, est une belle façon de partager un moment apaisant et de se relier aux autres.
 
 {{<button text="Découvrir les 21 ateliers" href="/ateliers-land-art-groupe/">}}
