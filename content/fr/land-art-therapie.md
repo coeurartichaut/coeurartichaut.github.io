@@ -1,6 +1,6 @@
 ---
 title: "Land art thérapeutique : créer avec la nature (Var)"
-description: "Le land art en art-thérapie : créer dehors avec des éléments naturels pour s'apaiser et se reconnecter à soi. Séances individuelles près de Saint-Maximin, ateliers de groupe bientôt."
+description: "Le land art en art-thérapie : créer dehors avec des éléments naturels pour s'apaiser et se reconnecter à soi. Séances individuelles et ateliers de groupe près de Saint-Maximin."
 ---
 
 ## Le land art, c’est quoi ?
@@ -58,10 +58,8 @@ Prévoyez simplement une tenue et des chaussures adaptées à l’extérieur.
 
 ---
 
-## Bientôt : des ateliers de land art en groupe
+## Les ateliers de land art en groupe
 
-Des **ateliers de land art en groupe** arrivent très prochainement. Créer ensemble, en petit groupe et en pleine nature, est une belle façon de partager un moment apaisant, de se relier aux autres et de vivre l’art‑thérapie autrement.
+Les **ateliers de land art en groupe** commencent le **lundi 19 octobre 2026** : 21 ateliers d’une heure en pleine nature, pour enfants, adultes et seniors, à **10 € par personne**. Créer ensemble, en groupe et dehors, est une belle façon de partager un moment apaisant et de se relier aux autres.
 
-Vous souhaitez être informé·e des prochaines dates ? Écrivez‑moi, je vous préviendrai dès l’ouverture des inscriptions.
-
-{{<button text="Être informé·e des ateliers de groupe" href="mailto:contact@coeurartichaut.fr?subject=Ateliers de land art en groupe&body=Bonjour Marine,%0D%0A%0D%0AJe souhaite être informé·e des prochains ateliers de land art en groupe.%0D%0A%0D%0A- Nom : %0D%0A- Prénom : %0D%0A- Téléphone : %0D%0A%0D%0AMerci,%0D%0A">}}
+{{<button text="Découvrir les 21 ateliers" href="/ateliers-land-art-groupe/">}}

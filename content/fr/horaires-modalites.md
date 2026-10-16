@@ -25,6 +25,7 @@ Le paiement s’effectue à chaque séance, dans un cadre simple et transparent.
 - **En visio** : 50 € la séance individuelle d’1 h.
 - **En extérieur** ([land art](/land-art-therapie/)) : 50 € la séance individuelle d’1 h.
 - **En duo** : 40 € par personne pour une séance d’1 h.
+- **[Ateliers de land art en groupe](/ateliers-land-art-groupe/)** : 10 € par personne (5 à 8 participants), ou 80 € pour un atelier privatisé jusqu’à 6 personnes.
 
 Sur simple demande, je vous remets une facture que vous pouvez transmettre à votre mutuelle : certaines prennent en charge une partie des séances. Retrouvez le détail sur la page [art‑thérapie et mutuelles](/art-therapie-remboursement-mutuelle/).
 

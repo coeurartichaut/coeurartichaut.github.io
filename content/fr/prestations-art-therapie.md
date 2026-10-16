@@ -17,6 +17,9 @@ Séance individuelle de [land art](/land-art-therapie/) — **1h en extérieur :
 Séance en duo — **1h : 40 euros par personne**  
 *(parent et enfant, couple, frères et sœurs, amis…)*  
 
+[Ateliers de land art en groupe](/ateliers-land-art-groupe/) — **1h : 10 euros par personne** *(de 5 à 8 participants, tous âges)*  
+Atelier de land art privatisé ou sur mesure — **80 euros jusqu’à 6 personnes**, puis 10 euros par personne supplémentaire *(8 personnes maximum)* ; à votre domicile, avec le matériel créatif apporté : **+ 20 euros**  
+
 {{<button icon="fa fa-clinic-medical" text="Quelles mutuelles remboursent les consultations en Art-thérapie ?" href="/art-therapie-remboursement-mutuelle/">}} 
 
 Chaque séance d’art‑thérapie est un espace d’accueil, de création et de mise en mots.  

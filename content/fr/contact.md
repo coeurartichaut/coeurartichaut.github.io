@@ -40,6 +40,7 @@ Aucun talent artistique n’est nécessaire.
 - **En extérieur**, pour une séance de [land art](/land-art-therapie/) dans la nature autour de Saint‑Maximin : séance d’1 h à 50 €.
 - **En visio**, où que vous soyez : séance d’1 h à 50 €.
 - **En duo** : séance d’1 h, 40 € par personne (parent et enfant, couple, frères et sœurs, amis…).
+- **En atelier de groupe**, en pleine nature : [ateliers de land art](/ateliers-land-art-groupe/) à 10 € par personne (5 à 8 participants), ou atelier privatisé à partir de 80 €.
 
 En présentiel, le règlement se fait en espèces ou par chèque ; en visio, par virement avant la séance.
 
