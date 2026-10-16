@@ -88,9 +88,9 @@ Prévoyez simplement une tenue et des chaussures adaptées à l’extérieur.
 |---|---|---|
 | **Atelier ouvert** | inscription seul·e ou à plusieurs, de 5 à 8 participants | 10 € par personne |
 | **Atelier privatisé** | famille, amis, groupe déjà constitué, jusqu’à 8 personnes | 80 € jusqu’à 6 personnes, puis 10 € par personne supplémentaire |
-| **Atelier privatisé chez vous** | même formule, à votre domicile, matériel créatif apporté | + 20 € de matériel |
+| **Atelier créatif chez vous** (peinture, collage, matières…) | même formule, à votre domicile, avec le matériel apporté | 100 € jusqu’à 6 personnes, puis 10 € par personne supplémentaire |
 
-**Vous venez en famille ou entre amis ?** Réservez un atelier rien que pour vous : choisissez l’un des 21 ateliers, ou imaginons ensemble un **atelier sur mesure** autour de ce que vous avez envie de vivre. L’atelier peut avoir lieu en pleine nature ou chez vous.
+**Vous venez en famille ou entre amis ?** Réservez un atelier rien que pour vous : choisissez l’un des 21 ateliers, ou imaginons ensemble un **atelier sur mesure** autour de ce que vous avez envie de vivre. L’atelier de land art a lieu en pleine nature ; chez vous, je vous propose un atelier créatif avec le matériel apporté.
 
 ---
 
