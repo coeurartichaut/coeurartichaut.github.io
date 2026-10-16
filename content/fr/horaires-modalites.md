@@ -1,6 +1,6 @@
 ---
 title: "Horaires & modalités des séances d’art‑thérapie"
-description: "Disponible du lundi au vendredi de 7h à 21h. Séances au cabinet ou à domicile à Saint-Maximin, en extérieur ou en visio. Paiement par chèque, espèces ou virement bancaire."
+description: "Disponible du lundi au vendredi de 7h à 21h. Séances au cabinet ou à domicile à Saint-Maximin, en extérieur ou en visio. Paiement en espèces, par Wero ou par virement bancaire."
 ---
 
 ## Horaires
@@ -14,8 +14,8 @@ L’objectif est de vous offrir un **cadre souple et accessible**, tout en garan
 ---
 ## Modalités de paiement
 
-Les séances peuvent être réglées en **espèces** ou par **chèque** en présentiel.  
-Pour les **séances en visio**, le règlement s’effectue **avant la séance**, par **virement bancaire**. Les informations nécessaires vous seront transmises lors de la prise de rendez‑vous.
+Les séances peuvent être réglées en **espèces** ou par **Wero** en présentiel.  
+Pour les **séances en visio**, le règlement s’effectue **avant la séance**, par **virement bancaire** ou par **Wero**. Les informations nécessaires vous seront transmises lors de la prise de rendez‑vous.
 
 Le paiement s’effectue à chaque séance, dans un cadre simple et transparent.
 
