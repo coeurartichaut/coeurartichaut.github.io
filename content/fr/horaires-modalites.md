@@ -7,7 +7,9 @@ description: "Disponible du lundi au vendredi de 7h à 21h. Séances au cabinet 
 
 Les séances d’art‑thérapie sont proposées du **lundi au vendredi, de 7h à 21h**, afin que chacun puisse trouver un créneau adapté à son rythme et à ses contraintes.
 
-Le **samedi** est possible **sur demande**, selon les disponibilités.
+Pour les séances individuelles et en duo, le **samedi** est possible **sur demande**, selon les disponibilités.
+
+Les [ateliers de land art en groupe](/ateliers-land-art-groupe/) ont lieu le **mercredi et le samedi**, et du lundi au vendredi pendant les vacances scolaires, sur inscription.
 
 L’objectif est de vous offrir un **cadre souple et accessible**, tout en garantissant un **accompagnement de qualité**, dans un environnement calme à Saint‑Maximin‑la‑Sainte‑Baume.
 
