@@ -38,7 +38,7 @@ Aucun talent artistique n’est nécessaire.
 - **Au cabinet**, à Saint‑Maximin‑la‑Sainte‑Baume : séance d’1 h à 60 €, matériel créatif fourni.
 - **À domicile**, à Saint‑Maximin et dans les communes proches (Brignoles, Nans‑les‑Pins, Pourrières…) : séance d’1 h à 60 €, matériel créatif fourni.
 - **En extérieur**, pour une séance de [land art](/land-art-therapie/) dans la nature autour de Saint‑Maximin : séance d’1 h à 50 €.
-- **En visio**, où que vous soyez : séance d’1 h à 50 €.
+- **[En visio](/art-therapie-en-visio/)**, partout en France : séance d’1 h à 50 €, ou Pause émotion de 30 min à 30 €.
 - **En duo** : séance d’1 h, 40 € par personne (parent et enfant, couple, frères et sœurs, amis…).
 - **En atelier de groupe**, en pleine nature : [ateliers de land art](/ateliers-land-art-groupe/) à 10 € par personne (5 à 8 participants), ou atelier privatisé à partir de 80 €.
 

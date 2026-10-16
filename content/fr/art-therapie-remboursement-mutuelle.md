@@ -37,7 +37,7 @@ Pour faciliter vos démarches, vous pouvez me signaler dès la prise de rendez�
 Non. L’art‑thérapie ne fait pas partie des soins remboursés par l’Assurance maladie. Seules certaines mutuelles complémentaires peuvent prendre en charge une partie des séances.
 
 ### Combien coûte une séance ?
-Une séance individuelle d’1 h coûte **60 €** au cabinet ou à domicile, **50 €** en visio ou en extérieur pour le [land art](/land-art-therapie/). Une séance en duo coûte **40 € par personne**. Tous les détails sont sur la page [prestations](/prestations-art-therapie/).
+Une séance individuelle d’1 h coûte **60 €** au cabinet ou à domicile, **50 €** en visio ou en extérieur pour le [land art](/land-art-therapie/). Une séance en duo coûte **40 € par personne**, et la Pause émotion en visio (30 min) **30 €**. Tous les détails sont sur la page [prestations](/prestations-art-therapie/).
 
 ### Les séances en visio ou en extérieur sont‑elles remboursées ?
 Cela dépend de votre mutuelle. Le format de la séance est indiqué sur la facture : demandez à votre mutuelle si elle accepte les séances à distance ou en extérieur.

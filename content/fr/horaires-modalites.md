@@ -22,7 +22,7 @@ Le paiement s’effectue à chaque séance, dans un cadre simple et transparent.
 ## Tarifs des séances
 
 - **Au cabinet ou à domicile** : 60 € la séance individuelle d’1 h, matériel créatif fourni.
-- **En visio** : 50 € la séance individuelle d’1 h.
+- **En visio** : 50 € la séance individuelle d’1 h, ou 30 € la [Pause émotion](/art-therapie-en-visio/) de 30 min.
 - **En extérieur** ([land art](/land-art-therapie/)) : 50 € la séance individuelle d’1 h.
 - **En duo** : 40 € par personne pour une séance d’1 h.
 - **[Ateliers de land art en groupe](/ateliers-land-art-groupe/)** : 10 € par personne (5 à 8 participants), ou 80 € pour un atelier privatisé jusqu’à 6 personnes.

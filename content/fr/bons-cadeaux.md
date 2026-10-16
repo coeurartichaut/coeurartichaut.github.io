@@ -17,6 +17,7 @@ Aucun talent artistique n’est nécessaire : le cadeau, c’est le moment.
 |---|---|---|
 | **Séance individuelle** au cabinet ou à domicile | 1 personne, 1 h | 60 € |
 | **Séance individuelle** en visio ou en extérieur ([land art](/land-art-therapie/)) | 1 personne, 1 h | 50 € |
+| **[Pause émotion](/art-therapie-en-visio/)** en visio | 1 personne, 30 min | 30 € |
 | **Séance en duo** | 2 personnes, 1 h | 80 € |
 | **[Atelier de land art en groupe](/ateliers-land-art-groupe/)** | 1 place, 1 h, tous âges | 10 € par place |
 | **Atelier de land art privatisé** | famille ou amis, jusqu’à 6 personnes, 1 h | 80 € |
