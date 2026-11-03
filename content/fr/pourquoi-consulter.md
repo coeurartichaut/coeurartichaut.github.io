@@ -22,6 +22,7 @@ L’art‑thérapie devient une ressource précieuse lorsque l’on ressent le b
 - **Une période de changement** (transition, rupture, déménagement, nouveau départ) qui demande un espace pour intégrer ce qui se transforme.
 - **Une difficulté à lâcher le mental**, avec le besoin d’une approche plus intuitive, corporelle ou créative.
 - **Un événement marquant**, récent ou ancien, que l’on souhaite traverser autrement que par l’analyse ou le récit.
+- **Une relation compliquée avec la nourriture** : grignotage, envies de sucre, impression de manger ses émotions. Voir [poids émotionnel et faim émotionnelle](/art-therapie-perte-de-poids/), avec un exercice à essayer.
 
 ---
 

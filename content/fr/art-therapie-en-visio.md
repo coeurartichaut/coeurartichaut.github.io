@@ -18,6 +18,7 @@ L’art‑thérapie en ligne s’adresse aux adultes et aux adolescents qui trav
 - du **stress**, de l’anxiété, de la fatigue mentale,
 - une **perte de confiance** ou d’élan,
 - une **transition de vie** : changement professionnel, séparation, déménagement, parentalité…
+- une relation compliquée avec la nourriture : grignotage, envies de sucre, [faim émotionnelle et poids émotionnel](/art-therapie-perte-de-poids/).
 
 Aucun talent artistique n’est nécessaire : l’objectif n’est pas de produire une œuvre, mais de donner forme à ce qui est difficile à dire.
 

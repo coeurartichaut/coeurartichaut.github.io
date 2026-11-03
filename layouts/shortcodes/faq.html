@@ -1,0 +1,5 @@
+{{- /* Affiche la FAQ définie dans le front matter (faq: liste de q / r). */ -}}
+{{ range .Page.Params.faq }}
+<h3>{{ .q }}</h3>
+<p>{{ .r }}</p>
+{{ end }}

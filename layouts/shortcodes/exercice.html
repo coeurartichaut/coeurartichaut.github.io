@@ -1,0 +1,17 @@
+{{- /* Encadré d'exercice. Paramètres : titre, duree, materiel. Contenu : étapes en markdown. */ -}}
+<section id="{{ .Get "id" | default "exercice" }}" class="exercice" style="background: #3E5530; color: #F4F1E8; border-radius: 28px; padding: 32px; margin: 32px 0; scroll-margin-top: 130px">
+<p style="margin: 0 0 6px; font-size: 13px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #D9E4C3">Exercice · {{ .Get "duree" }}</p>
+<p style="margin: 0 0 16px; font-family: 'Cormorant Garamond', Georgia, serif; font-size: 34px; line-height: 1.15; color: #FFFFFF">{{ .Get "titre" }}</p>
+<p style="margin: 0 0 20px; display: inline-block; background: #4E6339; border-radius: 999px; padding: 6px 16px; font-size: 15px; color: #E3E8D8">Il vous faut : {{ .Get "materiel" }}</p>
+<div class="exercice-etapes" style="color: #F4F1E8">
+{{ .Inner | markdownify }}
+</div>
+</section>
+<style>
+.page-v2 .exercice-etapes ol{margin:0;padding-left:0;list-style:none;counter-reset:etape;display:flex;flex-direction:column;gap:16px}
+.page-v2 .exercice-etapes ol>li{counter-increment:etape;position:relative;padding-left:56px;color:#F4F1E8}
+.page-v2 .exercice-etapes ol>li::before{content:counter(etape);position:absolute;left:0;top:-2px;width:40px;height:40px;border-radius:50%;background:#B5561C;color:#FFFFFF;font-weight:700;font-size:18px;display:flex;align-items:center;justify-content:center}
+.page-v2 .exercice-etapes li,.page-v2 .exercice-etapes p,.page-v2 .exercice-etapes strong{color:#F4F1E8}
+.page-v2 .exercice-etapes ul{margin:10px 0 0;padding-left:20px}
+.page-v2 .exercice-etapes em{color:#FFFFFF}
+</style>

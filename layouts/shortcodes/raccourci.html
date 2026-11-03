@@ -1,0 +1,5 @@
+{{- /* Encart raccourci vers une ancre. Paramètres : cible, texte, bouton. */ -}}
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 16px; background: #E6ECD9; border-radius: 20px; padding: 20px 24px; margin: 24px 0">
+<p style="margin: 0; flex: 1 1 280px; color: #2B3B22; font-weight: 600">{{ .Get "texte" }}</p>
+<a class="button" href="{{ with .Get "lien" }}{{ . }}{{ else }}#{{ .Get "cible" }}{{ end }}">{{ .Get "bouton" }}</a>
+</div>
