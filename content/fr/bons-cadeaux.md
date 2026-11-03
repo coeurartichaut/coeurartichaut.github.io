@@ -3,7 +3,7 @@ title: "Bon cadeau art‑thérapie et land art à Saint‑Maximin"
 description: "Offrez une séance d'art-thérapie, une séance en duo ou un atelier de land art en pleine nature. Bon cadeau envoyé par e-mail, idéal pour Noël ou un anniversaire."
 ---
 
-Vous cherchez un cadeau qui fait vraiment du bien ? Offrez un moment pour soi : une séance d’art‑thérapie, un temps à deux ou un atelier en pleine nature. Pour Noël, un anniversaire, une fête des mères ou des pères… ou simplement pour dire « prends soin de toi ».
+Vous cherchez un cadeau qui fait vraiment du bien ? Offrez un vrai moment de pause : une séance d’art‑thérapie, un temps à deux ou un atelier en pleine nature. Pour Noël, un anniversaire, une fête des mères ou des pères… ou simplement pour dire « prends soin de toi ».
 
 Aucun talent artistique n’est nécessaire : le cadeau, c’est le moment.
 

@@ -44,7 +44,7 @@ Une émotion qui déborde, une journée qui pique, ou simplement envie d’essay
 - une proposition créative simple,
 - **un outil concret** à refaire seul·e chez vous, quand vous en avez besoin.
 
-Elle est ouverte à tous : pour découvrir l’art‑thérapie, faire un point d’étape entre deux séances, ou glisser une pause sur l’heure du déjeuner. Pour un accompagnement en profondeur, la séance d’1 h reste le format idéal.
+Elle est ouverte à tous : pour découvrir l’art‑thérapie, faire un point d’étape entre deux séances, ou s’offrir une pause pendant le déjeuner. Pour un accompagnement en profondeur, la séance d’1 h reste le format idéal.
 
 ---
 

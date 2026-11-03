@@ -1,8 +1,8 @@
 ---
 title: "Perte de poids et émotions : l’art‑thérapie en visio"
 url: "/art-therapie-perte-de-poids/"
-date: 2026-11-03
-resume: "Grignotage au bureau, resservi à table sans faim, envies de sucre… Et si votre cœur avait faim, pas votre ventre ? Un exercice de 5 minutes pour le découvrir."
+date: 2026-11-02
+resume: "Grignotage au bureau, assiette resservie sans faim, envies de sucre… Et si votre cœur avait faim, pas votre ventre ? Un exercice de 5 minutes pour le découvrir."
 description: "Vous n’arrivez pas à perdre du poids ? Faim émotionnelle, grignotage, envies de sucre : un exercice simple et l’art-thérapie en visio pour comprendre ce qui pousse à manger."
 faq:
   - q: "Pourquoi je n’arrive pas à perdre du poids ?"
@@ -14,11 +14,11 @@ faq:
   - q: "Pourquoi j’ai toujours faim ?"
     r: "Une faim permanente peut avoir des causes physiques (repas trop légers ou trop pauvres en protéines et en fibres, manque de sommeil, certains médicaments, troubles hormonaux ou de la glycémie) : il est important d’en parler à votre médecin. Elle peut aussi être émotionnelle : elle arrive d’un coup, réclame un aliment précis et ne s’arrête pas quand on est rassasié."
   - q: "Comment ressentir la satiété ?"
-    r: "Manger lentement, sans écran, en faisant une pause au milieu du repas aide à percevoir le signal de satiété, qui met une vingtaine de minutes à arriver. Quand la faim est émotionnelle, ce signal est souvent couvert par l’émotion : apprendre à la reconnaître, par exemple par le dessin ou l’écriture, aide à réentendre son corps."
+    r: "Manger lentement, sans écran, en faisant une pause au milieu du repas aide à percevoir le signal de satiété, qui met une vingtaine de minutes à arriver. Quand la faim est émotionnelle, ce signal est souvent couvert par l’émotion : apprendre à la reconnaître, par exemple par le dessin ou l’écriture, aide à mieux écouter son corps."
 categorie: "Émotions"
 ---
 
-Un mail tendu, et la main file vers le paquet de biscuits sur le bureau. Une réunion qui s’éternise, et le distributeur devient le meilleur moment de la journée. Un repas de famille où l’on se ressert sans faim, parce que c’est plus simple que de dire ce qu’on pense. Ou ce moment, seul·e, où l’on mange sans même savoir pourquoi.
+Un e‑mail tendu, et la main file vers le paquet de biscuits sur le bureau. Une réunion qui s’éternise, et le passage au distributeur devient le meilleur moment de la journée. Un repas de famille où l’on se ressert sans faim, parce que c’est plus simple que de dire ce qu’on pense. Ou ce moment, seul·e, où l’on mange sans même savoir pourquoi.
 
 Le poids émotionnel n’a pas d’horaire. Il s’invite au travail, à table avec les autres, dans la voiture, devant le frigo.
 
@@ -39,7 +39,7 @@ On parle de **faim émotionnelle**, ou de **poids émotionnel** : ces kilos qui 
 | Elle arrive **progressivement** | Elle arrive **d’un coup**, souvent urgente |
 | N’importe quel aliment convient | Elle réclame **un aliment précis** : sucré, gras, croustillant |
 | Elle s’arrête quand on est rassasié | Elle continue **même quand on n’a plus faim** |
-| Elle laisse satisfait | Elle laisse souvent **de la culpabilité** |
+| On se sent rassasié et satisfait | Elle laisse souvent **un sentiment de culpabilité** |
 | Elle vient du ventre | Elle vient d’une **émotion** : stress, solitude, colère, ennui, fatigue |
 
 Grignoter au bureau ou le soir, se resservir à table sans faim, finir le paquet « sans s’en rendre compte », avoir des **envies de sucre** dans les moments de stress, manger pour se récompenser ou pour se consoler : ce sont des signes fréquents de faim émotionnelle. Et c’est souvent là que les régimes échouent : ils s’occupent de l’assiette, pas de ce qui pousse à manger.
@@ -61,7 +61,7 @@ Faites‑le la prochaine fois qu’une envie de manger arrive alors que vous n�
    - *De quoi ai‑je vraiment faim, là, tout de suite ?* (De repos ? De calme ? De quelqu’un à qui parler ? De douceur ?)
 {{< /exercice >}}
 
-Beaucoup de personnes sont surprises par ce qui apparaît : l’envie de chocolat se révèle être une envie de pause, la faim de 17 h ressemble à de la fatigue, ou à de la solitude. **Rien qu’en le voyant sur le papier, l’envie change souvent d’intensité.**
+Beaucoup de personnes sont surprises par ce qui apparaît : l’envie de chocolat se révèle être une envie de pause, la faim de 17 h ressemble à de la fatigue, ou à de la solitude. **Le simple fait de le voir sur le papier change souvent l’intensité de l’envie.**
 
 Vous pouvez ensuite décider, en conscience, de manger… ou de répondre autrement à ce besoin.
 
@@ -107,7 +107,7 @@ Vous êtes près de Saint‑Maximin‑la‑Sainte‑Baume (Var) ? Les séances s
 ## Deux formats pour commencer
 
 - **La Pause émotion : 30 min en visio, 30 €.** Un format court pour découvrir l’approche et repartir avec un outil concret face à une envie de manger émotionnelle.
-- **La séance d’art‑thérapie : 1 h en visio, 50 €.** Pour un vrai accompagnement, sur plusieurs séances, de la relation entre émotions et alimentation.
+- **La séance d’art‑thérapie : 1 h en visio, 50 €.** Pour un véritable accompagnement sur plusieurs séances, autour du lien entre émotions et alimentation.
 
 Une facture vous est remise sur demande : certaines mutuelles prennent en charge l’art‑thérapie ([voir les mutuelles](/art-therapie-remboursement-mutuelle/)).
 
