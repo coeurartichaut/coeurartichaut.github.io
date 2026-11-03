@@ -1,5 +1,8 @@
 ---
 title: "Perte de poids et émotions : l’art‑thérapie en visio"
+url: "/art-therapie-perte-de-poids/"
+date: 2026-11-03
+resume: "Grignotage au bureau, resservi à table sans faim, envies de sucre… Et si votre cœur avait faim, pas votre ventre ? Un exercice de 5 minutes pour le découvrir."
 description: "Vous n’arrivez pas à perdre du poids ? Faim émotionnelle, grignotage, envies de sucre : un exercice simple et l’art-thérapie en visio pour comprendre ce qui pousse à manger."
 faq:
   - q: "Pourquoi je n’arrive pas à perdre du poids ?"
@@ -12,6 +15,7 @@ faq:
     r: "Une faim permanente peut avoir des causes physiques (repas trop légers ou trop pauvres en protéines et en fibres, manque de sommeil, certains médicaments, troubles hormonaux ou de la glycémie) : il est important d’en parler à votre médecin. Elle peut aussi être émotionnelle : elle arrive d’un coup, réclame un aliment précis et ne s’arrête pas quand on est rassasié."
   - q: "Comment ressentir la satiété ?"
     r: "Manger lentement, sans écran, en faisant une pause au milieu du repas aide à percevoir le signal de satiété, qui met une vingtaine de minutes à arriver. Quand la faim est émotionnelle, ce signal est souvent couvert par l’émotion : apprendre à la reconnaître, par exemple par le dessin ou l’écriture, aide à réentendre son corps."
+categorie: "Émotions"
 ---
 
 Un mail tendu, et la main file vers le paquet de biscuits sur le bureau. Une réunion qui s’éternise, et le distributeur devient le meilleur moment de la journée. Un repas de famille où l’on se ressert sans faim, parce que c’est plus simple que de dire ce qu’on pense. Ou ce moment, seul·e, où l’on mange sans même savoir pourquoi.

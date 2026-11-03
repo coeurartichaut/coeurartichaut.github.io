@@ -1,0 +1,16 @@
+{{- /* Carte d'article. Contexte : dict "page" (la page) et "une" (true pour la grande carte à la une). */ -}}
+{{- $p := .page -}}
+{{- $s := partial "v2-cat.html" $p.Params.categorie -}}
+{{- $une := .une | default false -}}
+<article class="carte-article{{ if $une }} carte-une{{ end }}" data-cat="{{ $p.Params.categorie }}" style="background: #FFFFFF; border-radius: 24px; overflow: hidden; display: flex; {{ if $une }}flex-wrap: wrap;{{ else }}flex-direction: column;{{ end }} box-shadow: 0 1px 0 #E4DCCB">
+<a href="{{ $p.RelPermalink }}" tabindex="-1" aria-hidden="true" style="flex: {{ if $une }}1 1 320px{{ else }}0 0 auto{{ end }}; min-height: {{ if $une }}280px{{ else }}170px{{ end }}; background: {{ $s.bg }}; display: flex; align-items: center; justify-content: center">
+<img loading="lazy" src="/images/v2/{{ $s.img }}" alt="" style="height: {{ if $une }}190px{{ else }}120px{{ end }}; width: auto; max-width: 85%; object-fit: contain; border-radius: 0; margin: 0">
+</a>
+<div style="flex: 1 1 {{ if $une }}360px{{ else }}auto{{ end }}; padding: {{ if $une }}36px{{ else }}24px 26px 28px{{ end }}; display: flex; flex-direction: column; gap: 10px">
+<span style="align-self: flex-start; background: {{ $s.bg }}; color: {{ $s.ink }}; border-radius: 999px; padding: 4px 12px; font-size: 13px; font-weight: 700">{{ $p.Params.categorie }}</span>
+<h3 style="margin: 0; font-family: 'Cormorant Garamond', Georgia, serif; font-size: {{ if $une }}36px{{ else }}26px{{ end }}; font-weight: 600; line-height: 1.15; color: #2B3B22"><a href="{{ $p.RelPermalink }}" style="text-decoration: none; color: inherit">{{ $p.Title }}</a></h3>
+<p style="margin: 0; color: #46503B">{{ with $p.Params.resume }}{{ . }}{{ else }}{{ $p.Description }}{{ end }}</p>
+<span style="margin-top: auto; padding-top: 6px; font-size: 14px; color: #5C6650">{{ $p.ReadingTime }} min de lecture</span>
+<a href="{{ $p.RelPermalink }}" style="align-self: flex-start; font-weight: 700">Lire l’article →</a>
+</div>
+</article>

@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="fr">
+<head>
+{{ partial "v2-head.html" . }}
+<style>
+.page-v2{background:#FAF6EE;color:#2B3324;font-family:'Nunito Sans','Segoe UI',sans-serif;font-size:17px;line-height:1.65}
+.page-v2 main{max-width:760px;margin:0 auto;padding:48px 24px 88px}
+.page-v2 .prose>p:first-child{font-size:20px;line-height:1.6;color:#2B3324}
+.page-v2 .back{display:inline-block;margin-bottom:24px;font-weight:700;text-decoration:none}
+.page-v2 h1{margin:0 0 16px;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:52px;line-height:1.1;color:#2B3B22}
+.page-v2 .prose h2{margin:48px 0 16px;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:38px;line-height:1.15;color:#2B3B22}
+.page-v2 .prose h3{margin:36px 0 12px;font-size:21px;color:#3E5530}
+.page-v2 .prose h4{margin:28px 0 8px;font-size:18px;color:#3E5530}
+.page-v2 .prose p,.page-v2 .prose li{color:#46503B}
+.page-v2 .prose strong{color:#2B3324}
+.page-v2 .prose img{max-width:100%;height:auto;border-radius:20px}
+.page-v2 .prose hr{border:0;border-top:1px solid #E4DCCB;margin:40px 0}
+.page-v2 .prose blockquote{margin:24px 0;padding:20px 24px;background:#FFFFFF;border-radius:20px;font-style:italic}
+.page-v2 .prose table{width:100%;border-collapse:collapse;background:#FFFFFF;border-radius:16px;display:block;overflow-x:auto}
+.page-v2 .prose th,.page-v2 .prose td{padding:12px 16px;border-bottom:1px solid #E4DCCB;text-align:left}
+/* Boutons (shortcode button, {.button}) */
+.page-v2 a.button,.page-v2 .book-card-button,.page-v2 .partner-card-button a{display:inline-block;background:#A04B22 !important;color:#FFFFFF !important;padding:14px 26px;border-radius:999px;font-weight:700;font-size:16px;text-decoration:none !important;box-shadow:none;transform:none;margin:8px 0}
+.page-v2 a.button:hover,.page-v2 .book-card-button:hover,.page-v2 .partner-card-button a:hover{background:#86401D !important}
+.page-v2 a.button i{display:none}
+.page-v2 a.button,.page-v2 .book-card-button{box-sizing:border-box;max-width:100%;white-space:normal;text-align:center;width:auto}
+/* Cartes livre / partenaire */
+.page-v2 .book-card,.page-v2 .partner-card{background:#FFFFFF !important;border:0 !important;border-radius:28px !important;box-shadow:none !important;padding:32px !important;margin:32px 0 !important;max-width:none}
+.page-v2 .book-card-content h2,.page-v2 .partner-card-title{font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;font-size:30px !important;color:#2B3B22 !important;margin-top:0}
+.page-v2 .book-card-cover{flex:0 0 170px}
+.page-v2 .book-card-content{flex:1 1 240px}
+.page-v2 .book-card-cover img{width:170px;max-width:100%;border-radius:6px;box-shadow:0 12px 28px rgba(43,51,36,0.18)}
+.page-v2 .cta{margin-top:56px;background:#E6ECD9;border-radius:28px;padding:32px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:20px}
+.page-v2 .cta p{margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-size:28px;line-height:1.2;color:#2B3B22}
+@media (max-width:700px){.page-v2 h1{font-size:38px}.page-v2 .prose h2{font-size:30px !important}}
+</style>
+</head>
+<body><div class="page-v2">
+{{ partial "v2-header.html" . }}
+{{ $s := partial "v2-cat.html" .Params.categorie }}
+<header style="background: {{ $s.bg }}; padding: 40px 24px 48px">
+<div style="max-width: 1000px; margin: 0 auto; display: flex; flex-wrap: wrap; align-items: center; gap: 32px">
+<div style="flex: 1 1 480px; display: flex; flex-direction: column; gap: 14px">
+<a href="/blog/" style="font-weight: 700; text-decoration: none">← Le blog</a>
+<span style="align-self: flex-start; background: #FFFFFF; color: {{ $s.ink }}; border-radius: 999px; padding: 4px 14px; font-size: 13px; font-weight: 700">{{ .Params.categorie }}</span>
+<h1>{{ .Title }}</h1>
+{{ with .Params.resume }}<p style="margin: 0; font-size: 19px; color: #46503B; max-width: 640px">{{ . }}</p>{{ end }}
+<p style="margin: 4px 0 0; font-size: 14px; color: #5C6650">Par Marine Genteuil, art‑thérapeute · {{ .ReadingTime }} min de lecture</p>
+</div>
+<div style="flex: 0 1 260px; display: flex; justify-content: center">
+<img src="/images/v2/{{ $s.img }}" alt="" style="height: 200px; width: auto; max-width: 100%; object-fit: contain">
+</div>
+</div>
+</header>
+<main>
+<article class="prose">
+{{ .Content }}
+</article>
+
+<aside style="margin-top: 56px; background: #FFFFFF; border-radius: 24px; padding: 24px; display: flex; flex-wrap: wrap; align-items: center; gap: 20px">
+<img loading="lazy" src="/images/v2/marine.webp" alt="Marine Genteuil, art-thérapeute" style="width: 88px; height: 88px; border-radius: 50%; object-fit: cover; object-position: 50% 20%; margin: 0">
+<div style="flex: 1 1 260px">
+<p style="margin: 0; font-size: 13px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #A04B22">L’autrice</p>
+<p style="margin: 4px 0 6px; font-family: 'Cormorant Garamond', Georgia, serif; font-size: 24px; color: #2B3B22">Marine Genteuil</p>
+<p style="margin: 0; color: #46503B; font-size: 16px">Art‑thérapeute et psychopraticienne certifiée à Saint‑Maximin‑la‑Sainte‑Baume, en visio partout en France. Fondatrice de la méthode Cœur Artichaut™. <a href="/a-propos/" style="font-weight: 700">Qui suis‑je ?</a></p>
+</div>
+</aside>
+{{ if and (not (in (string .Content) "books-v2")) (not (in (slice "mention-legal" "art-therapie-entreprise") .File.ContentBaseName)) }}
+<section class="prose" style="margin-top: 56px">
+<h2>Les livres Cœur Artichaut</h2>
+<p>Pour continuer le chemin entre deux séances, ou le commencer chez vous, à votre rythme.</p>
+{{ partial "v2-books.html" . }}
+</section>
+{{ end }}
+{{ if not (in (string .Content) "mailto:") }}
+<div class="cta">
+<p>Envie d'en parler ?</p>
+<a class="button" href="{{ partial "v2-rdv-mailto.html" . | safeURL }}">Prendre rendez-vous</a>
+</div>
+{{ end }}
+</main>
+{{ $autres := where (where site.RegularPages "Section" "blog") "Permalink" "!=" .Permalink }}
+{{ $meme := where $autres "Params.categorie" .Params.categorie }}
+{{ $suggestions := ($meme | append ($autres.ByDate.Reverse)) | uniq | first 2 }}
+{{ with $suggestions }}
+<section style="background: #FFFFFF; padding: 64px 24px">
+<div style="max-width: 1000px; margin: 0 auto">
+<h2 style="margin: 0 0 24px; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: 36px; color: #2B3B22">À lire aussi</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px">
+{{ range . }}{{ partial "v2-article-card.html" (dict "page" .) }}{{ end }}
+</div>
+</div>
+</section>
+{{ end }}
+{{ partial "v2-footer.html" . }}
+</div>
+</body>
+</html>

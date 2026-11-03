@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="fr">
+<head>
+{{ partial "v2-head.html" . }}
+<style>
+.page-v2{background:#FAF6EE;color:#2B3324;font-family:'Nunito Sans','Segoe UI',sans-serif;font-size:17px;line-height:1.65}
+.page-v2 main{max-width:1100px;margin:0 auto;padding:48px 24px 88px}
+.page-v2 h1{margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:56px;line-height:1.05;color:#2B3B22}
+.filtres{display:flex;flex-wrap:wrap;gap:10px;margin:28px 0 8px}
+.filtres button{font:inherit;font-size:15px;font-weight:700;border:1px solid #C9C0AC;background:#FFFFFF;color:#3E5530;border-radius:999px;padding:8px 16px;cursor:pointer}
+.filtres button[aria-pressed="true"]{background:#3E5530;border-color:#3E5530;color:#FFFFFF}
+.grille{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:24px;margin-top:24px}
+.carte-article[hidden]{display:none !important}
+@media (max-width:700px){.page-v2 h1{font-size:40px}}
+</style>
+</head>
+<body><div class="page-v2">
+{{ partial "v2-header.html" . }}
+<main>
+<div style="display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 24px">
+<div style="flex: 1 1 420px; display: flex; flex-direction: column; gap: 12px">
+<p style="margin: 0; font-size: 14px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #A04B22">Le blog de Cœur Artichaut</p>
+<h1>Feuille après feuille, jusqu’au cœur</h1>
+<p style="margin: 0; max-width: 620px; color: #46503B">Émotions, hypersensibilité, faim émotionnelle, créativité : des articles pour mieux comprendre ce que l’on vit, avec des exercices simples à essayer chez vous.</p>
+</div>
+{{ partial "v2-mascot.html" (dict "who" "arti" "size" 80 "text" "Je range ici tout ce qui mérite plus qu’une page de mon carnet. Chou voulait l’appeler « Le grand livre des gribouillis ». On a voté.") }}
+</div>
+
+{{ $articles := .Pages.ByDate.Reverse }}
+{{ with index $articles 0 }}
+<h2 style="margin: 48px 0 20px; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: 32px; color: #2B3B22">À la une</h2>
+{{ partial "v2-article-card.html" (dict "page" . "une" true) }}
+{{ end }}
+
+<h2 style="margin: 56px 0 0; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: 32px; color: #2B3B22">Tous les articles</h2>
+<div class="filtres" role="group" aria-label="Filtrer par catégorie">
+<button type="button" data-filtre="" aria-pressed="true">Tous</button>
+{{ $cats := slice }}{{ range $articles }}{{ with .Params.categorie }}{{ $cats = $cats | append . }}{{ end }}{{ end }}
+{{ range uniq $cats }}<button type="button" data-filtre="{{ . }}" aria-pressed="false">{{ . }}</button>{{ end }}
+</div>
+<div class="grille">
+{{ range $articles }}{{ partial "v2-article-card.html" (dict "page" .) }}{{ end }}
+</div>
+</main>
+{{ partial "v2-footer.html" . }}
+</div>
+<script>
+(function(){
+  var boutons=document.querySelectorAll('.filtres button'), cartes=document.querySelectorAll('.grille .carte-article');
+  boutons.forEach(function(b){ b.addEventListener('click',function(){
+    var f=b.getAttribute('data-filtre');
+    boutons.forEach(function(x){ x.setAttribute('aria-pressed', x===b ? 'true' : 'false'); });
+    cartes.forEach(function(c){ c.hidden = !!f && c.getAttribute('data-cat')!==f; });
+  }); });
+})();
+</script>
+</body>
+</html>

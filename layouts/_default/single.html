@@ -36,8 +36,9 @@
 <body><div class="page-v2">
 {{ partial "v2-header.html" . }}
 <main>
-<a class="back" href="/">← Retour à l'accueil</a>
+{{ if eq .Section "blog" }}<a class="back" href="/blog/">← Retour au blog</a>{{ else }}<a class="back" href="/">← Retour à l'accueil</a>{{ end }}
 <h1>{{ .Title }}</h1>
+{{ if eq .Section "blog" }}<p style="margin: -20px 0 28px; font-size: 14px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #A04B22">Par Marine Genteuil, art-thérapeute</p>{{ end }}
 <article class="prose">
 {{ .Content }}
 </article>

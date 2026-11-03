@@ -1,6 +1,10 @@
 ---
 title: "Pourquoi consulter un art‑thérapeute ?"
 description: "Stress, anxiété, hypersensibilité, blocages intérieurs… L'art-thérapie aide à avancer sans tout expliquer. Accompagnement pour adultes et adolescents à Saint-Maximin."
+url: "/pourquoi-consulter/"
+date: 2026-09-25
+resume: "Stress, hypersensibilité, blocage difficile à nommer, période de changement : les raisons les plus fréquentes de consulter un art‑thérapeute, et comment savoir si c’est pour vous."
+categorie: "Comprendre l’art‑thérapie"
 ---
 
 L’art‑thérapie devient une ressource précieuse lorsque l’on ressent le besoin d’un espace différent : un espace où avancer sans devoir tout expliquer, sans devoir mettre des mots précis sur ce que l’on traverse. Beaucoup de personnes consultent lorsqu’elles sentent qu’un mouvement intérieur est nécessaire, même si elles ne savent pas encore lequel.

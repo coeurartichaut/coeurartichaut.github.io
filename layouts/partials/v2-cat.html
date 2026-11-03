@@ -1,0 +1,9 @@
+{{- /* Couleur et illustration d'une catégorie d'article. Entrée : nom de catégorie. */ -}}
+{{- $c := . | default "Comprendre l’art‑thérapie" -}}
+{{- $styles := dict
+  "Émotions" (dict "bg" "#F3E1D3" "img" "chou.webp" "ink" "#A04B22")
+  "Comprendre l’art‑thérapie" (dict "bg" "#E6ECD9" "img" "arti.webp" "ink" "#3E5530")
+  "Land art" (dict "bg" "#DDE7CF" "img" "logo-artichaut.webp" "ink" "#3E5530")
+  "Pratique" (dict "bg" "#EFE6D3" "img" "arti-et-chou.webp" "ink" "#7A5A2E")
+-}}
+{{- return (index $styles $c | default (index $styles "Comprendre l’art‑thérapie")) -}}

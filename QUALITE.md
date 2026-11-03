@@ -2,7 +2,7 @@
 
 Grille de référence pour chaque vérification du site. Les critères et les points ne changent pas d'un audit à l'autre, pour que les notes restent comparables.
 
-Contrôle automatique : `hugo --destination <dossier>` puis `python scripts/audit-seo.py <dossier>`.
+Contrôle automatique : `hugo --destination <dossier>` puis `python scripts/audit-seo.py <dossier>` (référencement) et `python scripts/audit-coherence.py <dossier>` (cohérence).
 
 ## Référencement (sur 100)
 
@@ -45,3 +45,4 @@ Contrôle automatique : `hugo --destination <dossier>` puis `python scripts/audi
 | 2026-10-14 | 100 | 100 | Titre land art raccourci (51 car.), H2 sur À propos / Horaires / Mentions, tarifs ajoutés à la page Horaires (366 mots), date des mentions légales mise à jour |
 | 2026-10-16 | 100 | 98 | Mesure sur le site en ligne (17 pages + 404) après ajout des pages ateliers de groupe, bons cadeaux, visio et de la Pause émotion. −2 cohérence : ateliers de groupe le samedi alors que les horaires (page Horaires, données Google) indiquent lundi–vendredi |
 | 2026-10-16 | 100 | 100 | Page Horaires : précision sur les ateliers de groupe du mercredi et du samedi (horaires Google inchangés, lundi–vendredi pour les séances) |
+| 2026-11-03 | 100 | 100 | Mesure sur la version locale avec le blog (20 pages + 404) : nouvel espace blog (5 articles, design magazine, filtres), article « Perte de poids et émotions ». Fil d’Ariane Accueil › Blog › Article ajouté. Script de cohérence ajouté (scripts/audit-coherence.py). Non publié |

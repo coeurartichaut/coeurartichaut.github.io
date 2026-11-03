@@ -1,6 +1,10 @@
 ---
 title: "Land art thérapeutique : créer avec la nature (Var)"
 description: "Le land art en art-thérapie : créer dehors avec des éléments naturels pour s'apaiser et se reconnecter à soi. Séances individuelles et ateliers de groupe près de Saint-Maximin."
+url: "/land-art-therapie/"
+date: 2026-10-12
+resume: "Créer dehors avec des feuilles, des pierres et du bois mort : le land art en art‑thérapie, pour s’apaiser, se reconnecter à ses sens et exprimer sans mots."
+categorie: "Land art"
 ---
 
 ## Le land art, c’est quoi ?

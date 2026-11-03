@@ -1,6 +1,10 @@
 ---
 title: "Art‑thérapie remboursée par la mutuelle : ce qu’il faut savoir"
 description: "Quelles mutuelles remboursent l'art-thérapie (ASETYS, Nostrum Care, Mutest…), quels montants et comment se faire rembourser vos séances à Saint-Maximin (Var)."
+url: "/art-therapie-remboursement-mutuelle/"
+date: 2026-10-14
+resume: "L’art‑thérapie est‑elle remboursée ? Les mutuelles qui la prennent en charge, les montants et les démarches pour vous faire rembourser vos séances."
+categorie: "Pratique"
 ---
 
 L’art‑thérapie n’est **pas remboursée par la Sécurité sociale**. En revanche, certaines **mutuelles** prennent en charge une partie des séances, au titre des médecines douces ou du bien‑être. Voici ce qu’il faut savoir avant de commencer.

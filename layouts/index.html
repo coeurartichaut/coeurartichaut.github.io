@@ -85,7 +85,6 @@
 <h2 style="margin: 0; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: 46px; line-height: 1.1; color: #2B3B22">Pourquoi choisir l'art-thérapie ?</h2>
 <p style="margin: 0; color: #46503B">Vous vous reconnaissez ? L'art-thérapie aide particulièrement quand les mots ne suffisent plus : stress, anxiété, hypersensibilité, difficultés relationnelles, perte de sens ou transitions de vie. Aucun talent artistique n'est nécessaire, seule compte votre présence.</p>
 <a href="/pourquoi-consulter/" style="font-weight: 700">Pourquoi consulter ?</a>
-<p style="margin: 0; color: #46503B">Vous mangez vos émotions ? Grignotage, envies de sucre, kilos qui ne partent pas : <a href="/art-therapie-perte-de-poids/" style="font-weight: 700">découvrez l’exercice « L’assiette de mes émotions »</a>.</p>
 {{ partial "v2-mascot.html" (dict "who" "arti" "text" "Je ressens tout très fort. Marine dit que c&#39;est une ressource. J&#39;ai noté. Deux fois.") }}
 </div>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px">
@@ -177,6 +176,24 @@
 </div>
 </div>
 </section>
+
+{{ with where site.RegularPages "Section" "blog" }}
+<section id="blog" style="padding: 0 24px 88px">
+<div style="max-width: 1200px; margin: 0 auto; display: flex; flex-direction: column; gap: 32px">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 16px">
+<div style="max-width: 720px; display: flex; flex-direction: column; gap: 12px">
+<p style="margin: 0; font-size: 14px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #A04B22">Le blog</p>
+<h2 style="margin: 0; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: 46px; line-height: 1.1; color: #2B3B22">Pour aller plus loin, à votre rythme</h2>
+<p style="margin: 0; color: #46503B">Des articles pour mieux comprendre ce que l'on vit, avec des exercices simples à essayer chez vous.</p>
+</div>
+<a href="/blog/" style="font-weight: 700">Tous les articles</a>
+</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px">
+{{ range first 3 .ByDate.Reverse }}{{ partial "v2-article-card.html" (dict "page" .) }}{{ end }}
+</div>
+</div>
+</section>
+{{ end }}
 
 <section id="tarifs" style="background: #FFFFFF; padding: 88px 24px">
 <div style="max-width: 1200px; margin: 0 auto; display: flex; flex-direction: column; gap: 36px">
