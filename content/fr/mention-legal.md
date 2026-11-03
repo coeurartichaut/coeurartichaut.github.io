@@ -54,7 +54,7 @@ Les messages transmis par e‑mail sont conservés uniquement le temps nécessai
 ## 6. Cookies et mesure d’audience
 Le site n’utilise **aucun cookie publicitaire ni de réseau social**.
 
-Pour connaître sa fréquentation et améliorer son contenu, le site utilise **Matomo**, un outil de mesure d’audience configuré **sans cookies**. Les statistiques sont anonymes (pages consultées, durée de visite, provenance, type d’appareil), servent uniquement à l’éditeur du site, ne sont ni revendues ni croisées avec d’autres données, et sont hébergées sur un serveur indépendant, hors des grandes plateformes publicitaires. Conformément aux recommandations de la CNIL, cette mesure d’audience est exemptée de consentement.
+Pour connaître sa fréquentation et améliorer son contenu, le site utilise **Matomo**, un outil de mesure d’audience configuré **sans cookies**. Les statistiques sont anonymes (adresses IP anonymisées, pages consultées, durée de visite, provenance, type d’appareil), servent uniquement à l’éditeur du site, ne sont ni revendues ni croisées avec d’autres données, et sont hébergées sur un serveur indépendant situé en France, hors des grandes plateformes publicitaires. Conformément aux recommandations de la CNIL, cette mesure d’audience est exemptée de consentement.
 
 Vous pouvez également refuser toute mesure en activant l’option « Ne pas me pister » (Do Not Track) de votre navigateur, ou en bloquant les scripts du site.
 
